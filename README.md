@@ -6,7 +6,7 @@
   <h3 align="center">二级爬虫</h3>
   <p align="center">
     C语言实现！
-    <a href="https://github.com/LETOMATO/SPIDER-test/blob/master/imgUrl.png">查看Demo</a>
+    <a href="https://github.com/LETOMATO/SPIDER-test/blob/master/imgUrl.png">查看测试图片</a>
   </p>
 
 </p>
