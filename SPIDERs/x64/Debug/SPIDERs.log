@@ -1,0 +1,10 @@
+﻿  源.c
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(40,11): warning C4098: 'Spider_connect': 'void' function returning a value
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(60,42): warning C4133: 'function': incompatible types - from 'SOCKADDR_IN *' to 'const sockaddr *'
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(110,47): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(123,10): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(165,42): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(179,12): warning C4047: '=': 'char' differs in levels of indirection from 'char [2]'
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(206,14): warning C4098: 'getImagUrl': 'void' function returning a value
+E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\源.c(214,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SPIDERs.vcxproj -> E:\保存资料\新建文件夹\新建文件夹\txt\SPIDERs\x64\Debug\SPIDERs.exe

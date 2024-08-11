@@ -1,0 +1,1983 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8" /><meta name="publishid" content="11118398.0.98.0"/>
+<meta name="nodeid" content="0"/>
+<meta name="nodename" content="" />
+
+<meta name="nodeid" content="0" />
+<meta name="nodename" content="" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<script src="/global/js/pageCore.js"></script>
+<script src="http://www.news.cn/global/js/pageCore.js"></script>
+<title>学习进行时_新华网</title>
+<meta name="keywords" content="学习进行时,习近平,新华网，新华社，讲话" />
+<meta name="description" content=" " />
+<script type="text/javascript">
+var isMobile = (/iPhone|Android|Windows Phone|Nokia/).test(navigator.userAgent);
+if(isMobile){
+	location.href = "/politics/xxjxs/mobile.htm";
+}
+</script>
+<link rel="stylesheet" href="/global/public/css/common.css" />
+<link rel="stylesheet" href="/global/lib/swiper/swiper2.7.6/idangerous.swiper.css" />
+<link rel="stylesheet" href="/global/lib/swiper/swiper2.7.6/idangerous.swiper.scrollbar.css" />
+<link rel="stylesheet" href="/global/lib/swiper/swiper2.7.6/idangerous.swiper.3dflow.css" />
+<link rel="stylesheet" href="/politics/xxjxs/20190620new/css/20190620index.css" />
+<style>
+.nav-li0 { width: 168px; padding-top: 15px; box-sizing: border-box; }
+.part2 { position: relative }
+.part2-bot .tabs { width: 650px; }
+.part2-bot .tab06 { background: url(/politics/xxjxs/images/xinshiping1.png) 0 0 no-repeat; }
+.part2-bot .tab06.active { background: url(/politics/xxjxs/images/xinshiping2.png) 0 0 no-repeat; }
+.part2-jxslink { width: 250px; height: 130px; display: block; position: absolute; left: 50%; top: 25px; margin-left: -125px; }
+.nav { background: #496290; height: 100px; }
+.part1 { margin-top: 100px; }
+.nav-li { padding: 0 10px; font-size: 16px; }
+.nav-li:before { transform: rotate3d(1, 1, 1, 45deg); }
+.part2-bot .tabs { width:600px; }
+.part2-bot .tab05 { background: url(/politics/xxjxs/20190618new/images/xxps.png) 0 15px no-repeat; }
+.part2-bot .tab05.active { background: url(/politics/xxjxs/20190618new/images/xxps_red.png) 0 15px no-repeat; }
+/*精彩视频 part5*/
+.part5 { position: relative; background: #999; margin-top: 20px; }
+@media screen and (min-width:1921px) and (max-width: 5000px) {
+.part5 { position: relative; width: 1920px; margin: 20px auto 0; }
+}
+.part5 .swiper-container { height: auto!important; width: 100%; }
+.part5 .swiper-container .swiper-slide img { z-index: 1; width: 100%; height: auto; }
+#tabs { position: absolute; width: 17%; height: 100%; z-index: 10; top: 0; right: 10%; background-size: 100% }
+.part5 .tabs { background: url(/politics/xxjxs/images/20190618_xxxdaa_part5Img01_v1.png) 50% 0 no-repeat; }
+.part5 .spLogo { position: absolute; width: 17%; height: 15%; -ms-transform: skewX(1deg); -moz-transform: skewX(1deg); -webkit-transform: skewX(1deg); -o-transform: skewX(1deg); transform: skewX(1deg); top: 0; right: 10.2%; z-index: 11 }
+.part5 .spLogo a { display: block; width: 100%; height: 100%; }
+.tabBox { position: absolute; width: 85%; height: 15%; text-align: left; -ms-transform: skewX(1deg); -moz-transform: skewX(1deg); -webkit-transform: skewX(1deg); -o-transform: skewX(1deg); transform: skewX(1deg); }
+.tabBox1 { top: 15.7%; right: 13.5% }
+.tabBox2 { top: 32.5%; right: 13.5% }
+.tabBox3 { top: 49.3%; right: 13.5% }
+.tabBox4 { top: 66%; right: 13.5% }
+.tabBox5 { top: 82.7%; right: 13.5% }
+.tabBox a { display: block; -ms-transform: skewX(0deg); -moz-transform: skewX(1deg); -webkit-transform: skewX(1deg); -o-transform: skewX(1deg); transform: skewX(1deg); padding: 12% 20% 0 13%; line-height: 170%; color: #fff; font-size: 17px; }
+/*讲话全文&重要文章*/
+.jhwz_box { width: 1322px; height: 311px; margin: 0 auto; margin-top: 35px; }
+.jhwz_box_left { width: 437px; height: 311px; }
+.jhwz_box_mid { width: 410px; height: auto; margin-left: 32px; }
+.jhwz_box_mid .dh { overflow: hidden; }
+.jhwz_box_mid .dh h2 { float: left; font-size: 18px; color: #000; font-weight: bold; position: relative; padding-left: 15px; }
+.jhwz_box_mid .dh h2:before { content: ""; width: 5px; height: 26px; background: #1587d9; position: absolute; left: 0; top: 0; }
+.jhwz_box_mid .dh p { float: right; font-size: 12px; color: #666; margin-top: 5px; }
+.jhwz_box_mid .dh p a { color: #666; }
+.jhwz_box_mid .tit { font-size: 18px; color: #526994; font-weight: bold; margin-top: 25px; line-height: 30px; }
+.jhwz_box_mid .tit a { color: #526994; }
+.jhwz_box_mid .text { font-size: 14px; color: #666; line-height: 30px; margin-top: 14px; text-indent: 2em; }
+/*学习述评*/
+.xssp_bg { width: 100%; height: 541px; background: url(/politics/xxjxs/20190618new/images/xxsp_bgg.jpg); }
+.xssp_box { width: 1200px; height: auto; overflow: hidden; margin: 0 auto; }
+.xssp_box .dh { width: 100%; height: 39px; margin-top: 43px; }
+.xssp_nr { width: 580px;  overflow: hidden;}
+.tit_box { border-bottom: 1px dotted #fff; padding-bottom: 12px; overflow: hidden; }
+.xssp_nr .tit { float: right; width: 490px; }
+.xssp_nr .tit h2 { font-size: 18px; color: #fff; font-weight: bold; line-height: 27px; }
+.xssp_nr .tit h2 a { color: #fff; }
+.xssp_nr .tit p { font-size: 14px; color: #fff; margin-top: 10px; line-height: 25px; }
+.xssp_nr .tit_box .time { float: left; width: 59px; height: 54px; border: 1px solid #c9ddff; position: relative; margin-top: 25px; }
+.xssp_nr .tit_box .time h2 { width: 50px; background: url(/politics/xxjxs/20190618new/images/xxsp_bgg.jpg); font-size: 36px; line-height: 36px; text-align: center; color: #c9ddff; position: absolute; left: 4px; top: -20px; z-index: 66; }
+.xssp_nr .tit_box .time p { font-size: 12px; color: #c9ddff; text-align: center; margin-top: 30px; }
+.xssp_list li { font-size: 16px; color: #333; position: relative; border-bottom: 1px dotted #a3a3a3; padding-bottom: 20px; margin-top: 20px; padding-left: 20px; }
+.xssp_list li a { color: #333; }
+.xssp_list li:before { content: ""; width: 6px; height: 6px; background: #496290; border-radius: 10px; position: absolute; left: 0; top: 10px; }
+.xssp_list1 li { font-size: 16px; color: #333; position: relative; border-bottom: 1px dotted #fff; padding-bottom: 20px; margin-top: 20px; padding-left: 20px; }
+.xssp_list1 li a { color: #fff; }
+.xssp_list1 li:before { content: ""; width: 6px; height: 6px; background: #fff; border-radius: 10px; position: absolute; left: 0; top: 10px; }
+/*第1视点*/
+.wight_bg { width: 100%; height: auto; background: #fff; overflow: hidden; }
+.content { width: 1200px; height: auto; margin: 0 auto; }
+.d1sd_box { width: 580px; height: 482px; overflow: hidden; margin-top: 50px; }
+.d1sd_box .dh { width: 580px; height: 39px; }
+.d1sd_list { list-style: none; margin-top: 30px; }
+.d1sd_list li { float: left; width: 175px; height: 412px; }
+.d1sd_list li + li { margin-left: 17px; }
+.d1sd_list li .dtit_box { height: 94px; background: url(/politics/xxjxs/20190618new/images/d1sd_bj.png) 0 0 no-repeat; }
+.d1sd_list li .dtit_box p { font-size: 14px; color: #526994; padding-left: 50px; }
+.d1sd_list li .dtit_box h2 { width: 168px; height: 64px; font-size: 16px; color: #333; line-height: 22px; margin: 8px 0 0 10px; overflow: hidden; }
+.d1sd_list li .dtit_box h2 a { color: #333; }
+.d1sd_list li .dimg_box { width: 169px; height: 299px; margin: 17px 0 0 6px; background: url(/politics/xxjxs/20190618new/images/xxsp_bgg.jpg); position: relative; }
+.d1sd_list li .dimg_box img { width: 169px; height: 299px; position: absolute; left: -6px; top: -6px; }
+/*第1报道*/
+.d1bd_box { width: 580px; height: 482px; overflow: hidden; margin-top: 50px; }
+.d1bd_box .d_tit { border-bottom: 1px dotted #999; padding-bottom: 18px; overflow: hidden; }
+.d1bd_box .d_tit h2 { font-size: 18px; color: #526994; font-weight: bold; margin-top: 25px; line-height: 30px; }
+.d1bd_box .d_tit h2 a { color: #526994; }
+.d1bd_box .d_tit p { font-size: 14px; color: #666; line-height: 30px; margin-top: 14px; text-indent: 2em; }
+.d1bd_list li { font-size: 16px; color: #333; position: relative; border-bottom: 1px dotted #999; padding-bottom: 15px; margin-top: 14px; padding-left: 20px; line-height: 27px; }
+.d1bd_list li a { color: #333; }
+.d1bd_list li:before { content: ""; width: 6px; height: 6px; background: #526994; border-radius: 10px; position: absolute; left: 0; top: 12px; }
+.d1bd_list li .hot { float: right; width: 35px; height: 14px; background: url(/politics/xxjxs/20190618new/images/d1bd_hot.png) no-repeat; margin-top: 8px; }
+/*外交习语*/
+.wjxy_box { width: 1200px; height: 315px; overflow: hidden; margin:auto; margin-top: 50px; }
+.wjxy_con { width: 1200px; height: 198px; position: relative; }
+.wjxy_con .swiper-container { width: 1200px; height: 198px; margin-top: 40px; }
+.wjxy_con .swiper-slide { position: relative; }
+.wjxy_con .swiper-container.swiper-wrapper .swiper-slide img { width: 1200px; height: 198px; }
+.wjxy_con .pagination { position: absolute; right: 10px; text-align: center; bottom: -40px; width: 100%; z-index: 2; }
+.wjxy_con .swiper-pagination-switch { display: inline-block; width: 10px; height: 10px; border-radius: 10px; background: #185b8b; margin: 0 24px; cursor: pointer; }
+.wjxy_con .swiper-active-switch { background: #db3138; width: 15px; height: 15px; }
+.wjxy_list { list-style: none; }
+.wjxy_list li { float: left; width: 580px; height: 198px; }
+.wjxy_list li .img { float: left; width: 350px; height: 198px; }
+.wjxy_list li .wjxy_tit { float: left; width: 230px; height: 198px; background: url(/politics/xxjxs/20190618new/images/wjxy_bg.jpg) no-repeat; }
+.wjxy_list li .wjxy_tit .wj_date { font-size: 14px; color: #526994; margin: 45px 0 0 14px; }
+.wjxy_list li .wjxy_tit .wj_date span { font-size: 36px; color: #526994; font-weight: bold; }
+.wjxy_list li .wjxy_tit .wj_tit { width: 200px; height: 80px; overflow: hidden; font-size: 18px; color: #526994; font-weight: bold; margin: 0 0 0 14px; line-height: 28px; }
+.wjxy_list li .wjxy_tit .wj_tit a { color: #526994; }
+.wjxy_list li + li { margin-left: 40px; }
+/*自习课*/
+.zxk_box { width: 580px; height: 481px; overflow: hidden; margin-top: 50px; }
+.zxk_swiper { width: 503px; height: 418px; position: relative; margin: 0 auto; margin-top: 20px; }
+.zxk_swiper .arrow-left { background: url(/politics/xxjxs/20190618new/images/zxk_left.png) no-repeat left top; position: absolute; left: -30px; top: 187px; width: 20px; height: 40px; z-index: 2 }
+.zxk_swiper .arrow-right { background: url(/politics/xxjxs/20190618new/images/zxk_right.png) no-repeat left bottom; position: absolute; right: -30px; top: 187px; width: 20px; height: 40px; z-index: 2 }
+.zxk_swiper .swiper-container { width: 503px; height: 418px; }
+.zxk_swiper .swiper-slide { position: relative; }
+.zxl_list { list-style: none; }
+.zxl_list li { float: left; width: 245px; height: auto; cursor: pointer; position: relative; }
+.zxl_list li + li { margin-left: 13px; }
+.zxl_list li .img { width: 224px; height: 301px; margin: 0 auto; position: relative; z-index: 55; }
+.zxl_list li .tit { width: 204px; height: 79px; margin: 0 auto; background: #526994; border-radius: 0 0 20px 20px; font-size: 18px; color: #fff; font-weight: bold; text-align: center; line-height: 26px; padding: 20px 10px 0 10px; position: relative; z-index: 55; }
+.zxl_list li .tit a { color: #fff; }
+.zxl_list li:hover .tit { background: #db3138; }
+.zxl_list li:hover .bg { width: 239px; height: 302px; border: 2px solid #db3138; border-radius: 20px; position: absolute; left: 0; top: 50px; z-index: 1; }
+.zxl_list li:hover .bg_jj { width: 28px; height: 17px; background: url(/politics/xxjxs/20190618new/images/zxk_jj.png) no-repeat; position: absolute; left: 35px; bottom: -13px; }
+/*金色相框*/
+.jsxk_box { width: 580px; height: 460px; overflow: hidden; margin-top: 50px; }
+.jsxk_swiper { width: 580px; height: 405px; position: relative; background: #526994; border-radius: 0 0 20px 20px; margin-top: 15px; }
+.jsxk_swiper .swiper-container { width: 580px; height: 405px; }
+.jsxk_swiper .swiper-slide { position: relative; }
+.jsxk_swiper .swiper-container .swiper-wrapper .swiper-slide img { width: 580px; height: 326px; }
+.jsxk_swiper .swiper-container .swiper-wrapper .swiper-slide .player img { width: 116px; height: 116px; position: absolute; left: 4px; top: 207px; display:none; }
+.jsxk_swiper .swiper-container .swiper-wrapper .swiper-slide .title { width: 94%; height: 35px; line-height: 35px; color: #fff; overflow: hidden; font-size: 18px; font-weight: bold; text-align: center; margin: 0 auto; margin-top: 15px; }
+.jsxk_swiper .swiper-container .swiper-wrapper .swiper-slide .title a { color: #fff; }
+.jsxk_swiper .pagination { position: absolute; right: 10px; text-align: center; bottom: 5px; width: 100%; z-index: 2; }
+.jsxk_swiper .swiper-pagination-switch { display: inline-block; width: 10px; height: 10px; border-radius: 10px; background: #f8f8f8; margin: 0 10px; cursor: pointer; }
+.jsxk_swiper .swiper-active-switch { background: #db3138; }
+.part8 { height: 985px; background-size: 100% 100%; }
+.part8-tit {
+width: 1200px;
+}
+.products { width: 870px; margin: 0 auto; text-align: center; overflow: hidden; margin-top: 35px; }
+.products li { float: left; position: relative; width: 64px; margin: 0 30px; }
+.products li div { height: 64px; line-height: 64px; }
+.products li div img { width: 100%; vertical-align: middle; }
+.products li span { display: block; margin-top: 10px; font-size: 14px; color: #fff; line-height: 1.2; }
+.products li a span { color: #fff; }
+.tstj{ position:relative; width:730px; padding-left:16px; top:-7px;   }
+.tstj .hd{ overflow:hidden;  }
+.tstj .hd .prev{ display:block;  width:32px; height:57px;    position:absolute; left: -101px;
+top: 302px; 
+cursor:pointer; background:url(/politics/xxjxs/images/20210512/left01.png) no-repeat;}
+.tstj .hd .next{ background:url(/politics/xxjxs/images/20210512/right01.png) no-repeat; width:32px; height:57px;    position:absolute; right: -101px;
+top: 302px; cursor: pointer; }
+.tstj .hd ul{ float:right; overflow:hidden; zoom:1; margin-top:10px; zoom:1; }
+.tstj .hd ul li{ float:left;  width:9px; height:9px; overflow:hidden; margin-right:5px; text-indent:-999px; cursor:pointer; background:url("images/icoCircle.gif") 0 -9px no-repeat; }
+.tstj .hd ul li.on{ background-position:0 0; }
+.tstj .bd{  overflow:hidden;  }
+.tstj .bd ul{ overflow:hidden; zoom:1;   }
+.tstj .bd ul li{ margin:0 27px; float:left; _display:inline; overflow:hidden; text-align:center; margin-top:78px;  }
+.tstj .bd ul li .pic{ text-align:center; }
+.tstj .bd ul li .pic img{ width:128px; height:185px; display:block;  }
+.tstj .bd ul li .pic a:hover img{ border-color:#999;  }
+.tstj .bd ul li .title{ line-height:24px; display:none;   }
+.xxpstop{ margin-top:50px;}
+<!--20210916近平style-->
+.xyjr{ width:1000px; height:312px; position:relative;}
+.xyjr .piclist{position: absolute;
+left:0;
+top:0;
+width: 470px;
+height: 280px;
+}
+.xyjr .picTitle {
+width: 470px;
+height: 280px;
+overflow: hidden;
+float: left;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+}
+.xyjr .picTitle .img img {
+width: 470px;
+height: 280px;
+display: block;
+}
+.xyjr .picTitle .bg {
+background: #000000;
+bottom: 0;
+height: 35px;
+left: 0;
+opacity: 0.4;
+filter: alpha(opacity=40);
+position: absolute;
+width: 100%;
+z-index: 10;
+}
+.xyjr .picTitle .name {
+bottom: 0;
+color: #FFFFFF;
+height: 35px;
+left: 0;
+line-height: 35px;
+overflow: hidden;
+position: absolute;
+text-align: center;
+width: 100%;
+z-index: 11;
+}
+.xyjr .picTitle .name a {
+color: #FFFFFF;
+text-decoration: none;
+}
+.xyjr .picTitle .name a:hover {
+text-decoration: underline;
+}
+.xyjr ul {
+width: 510px;
+float: right;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+background: #fff;
+padding: 2px 0;
+}
+.xyjr ul li {
+background: url(http://www.xinhuanet.com/politics/xxjxs/images/20161227_xxxdd_part2Img04_v1.png) 10px 19px no-repeat;
+padding: 7px 0 7px 26px;
+border-bottom: 1px solid #f3f7f9;
+}
+.xyjr ul .selected{ background: #ccc;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+height: 36px;
+line-height: 36px;
+display: block;
+width: 95%;
+color: #000;} 
+.xyjr ul .selected>a{ text-decoration:none;}
+.xyjr ul li a {
+padding-left: 10px;
+border-radius: 5px;
+height: 36px;
+line-height: 36px;
+display: block;
+width: 95%;
+}
+.xyjr ul li a:hover {
+background: #ccc;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+height: 36px;
+line-height: 36px;
+display: block;
+width: 95%;
+color: #000;
+}
+.xyjr ul dd {
+text-align: right;
+padding-right: 10px;
+font-size: 14px;
+color: #999;
+font-weight: normal;
+}
+.xyjr ul dd a {
+color: #999;
+}
+.hide{display:none;} 
+</style>
+</head>
+<body>
+<!--融媒体头条part1-->
+<div class="part1 clearfix" id="gqdt">
+<a class="arrow-left hide" href="#"></a> <a class="arrow-right hide" href="#"></a>
+<div class="swiper-container" id="index_1">
+<div class="swiper-wrapper swiper-no-swiping">
+<!--第一针-->
+<div class="swiper-slide">
+<img src="http://www.news.cn/politics/titlepic/112963/1129635460_1685326236280_title0h.png" class="BigPic" alt="世界需要一个稳定的中亚。" />
+<div class="part1-nav-box">
+<div class="part1-nav clearfix">
+<div class="title">
+<div class="tit-time">
+<p class="tit-time-top"><a href="#index_3">2023年5月</a></p>
+<p class="tit-time-bot"><a href="#index_3">29</a></p>
+</div>
+<div class="tit-word">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="middle">世界需要一个稳定的中亚。</td>
+</tr>
+</table>
+</div>
+</div>
+<ul class="part1-nav-list clearfix">
+<li>
+<div class="part1-nav-list-ident"></div>
+<div class="part1-nav-list-cont clearfix">
+<div class="part1-nav-list-name">
+<div class="part1-nav-list-name-icon"><a href="http://www.news.cn/politics/leaders/2023-05/21/c_1129632874.htm" target="_blank"><img src="../titlepic/112963/1129635262_1684716786018_title0h.png" alt="习近平主席在西安主持首届中国－中亚峰会纪实" /></a></div>
+<div class="part1-nav-list-name-mark"><a href="http://www.news.cn/politics/leaders/2023-05/21/c_1129632874.htm" target="_blank">头条</a></div>
+</div>
+<div class="part1-nav-list-tit-wrapper">
+<div class="part1-nav-list-tit">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="middle"><a href="http://www.news.cn/politics/leaders/2023-05/21/c_1129632874.htm" target="_blank">习近平主席在西安主持首届中国－中亚峰会纪实</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</li>
+<li>
+<div class="part1-nav-list-ident"></div>
+<div class="part1-nav-list-cont clearfix" />
+<div class="part1-nav-list-name">
+<div class="part1-nav-list-name-icon"><a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129628936.htm" target="_blank"><img src="../titlepic/112963/1129635270_1684716949966_title0h.png" alt="习近平主持首届中国－中亚峰会并发表主旨讲话" /></a></div>
+<div class="part1-nav-list-name-mark"><a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129628936.htm" target="_blank">讲话</a></div>
+</div>
+<div class="part1-nav-list-tit-wrapper">
+<div class="part1-nav-list-tit">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="middle"><a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129628936.htm" target="_blank">习近平主持首届中国－中亚峰会并发表主旨讲话</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</li>
+<li>
+<div class="part1-nav-list-ident"></div>
+<div class="part1-nav-list-cont clearfix" />
+<div class="part1-nav-list-name">
+<div class="part1-nav-list-name-icon"><a href="http://www.news.cn/politics/leaders/2023-05/20/c_1129630925.htm" target="_blank"><img src="../titlepic/112963/1129635344_1684717877467_title0h.png" alt="金色相框 | 习近平主持首届中国&mdash;中亚峰会" /></a></div>
+<div class="part1-nav-list-name-mark"><a href="http://www.news.cn/politics/leaders/2023-05/20/c_1129630925.htm" target="_blank">照片</a></div>
+</div>
+<div class="part1-nav-list-tit-wrapper">
+<div class="part1-nav-list-tit">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="middle"><a href="http://www.news.cn/politics/leaders/2023-05/20/c_1129630925.htm" target="_blank">金色相框 | 习近平主持首届中国—中亚峰会</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</li>
+<li>
+<div class="part1-nav-list-ident"></div>
+<div class="part1-nav-list-cont clearfix" />
+<div class="part1-nav-list-name">
+<div class="part1-nav-list-name-icon"><a href="http://www.news.cn/world/2023-05/19/c_1129626963.htm" target="_blank"><img src="../titlepic/112962/1129627467_1684458088394_title0h.png" alt="中国&mdash;中亚合作为世界和平与发展注入正能量" /></a></div>
+<div class="part1-nav-list-name-mark"><a href="http://www.news.cn/world/2023-05/19/c_1129626963.htm" target="_blank">评论</a></div>
+</div>
+<div class="part1-nav-list-tit-wrapper">
+<div class="part1-nav-list-tit">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="middle"><a href="http://www.news.cn/world/2023-05/19/c_1129626963.htm" target="_blank">中国—中亚合作为世界和平与发展注入正能量</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</li>
+<li>
+<div class="part1-nav-list-ident"></div>
+<div class="part1-nav-list-cont clearfix" />
+<div class="part1-nav-list-name">
+<div class="part1-nav-list-name-icon"><a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129629904.htm" target="_blank"><img src="../titlepic/112963/1129635361_1684719870265_title0h.png" alt="携手打造中国－中亚命运共同体更加美好的未来" /></a></div>
+<div class="part1-nav-list-name-mark"><a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129629904.htm" target="_blank">反响</a></div>
+</div>
+<div class="part1-nav-list-tit-wrapper">
+<div class="part1-nav-list-tit">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="middle"><a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129629904.htm" target="_blank">携手打造中国－中亚命运共同体更加美好的未来</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</li>
+<li>
+<div class="part1-nav-list-ident">空</div>
+<div class="part1-nav-list-cont clearfix" />
+<div class="part1-nav-list-name">
+<div class="part1-nav-list-name-icon"></div>
+<div class="part1-nav-list-name-mark"></div>
+</div>
+<div class="part1-nav-list-tit-wrapper">
+<div class="part1-nav-list-tit">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td valign="middle">空</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--近平日历 iframe-->
+<!--<div id="index_3"></div>
+<div class="part-jprl" style="width: 1020px; margin: 60px auto 0;"><img src="/politics/xxjxs/images/20161227_xxxdd_partJprlImg01_v1.png" /></div>
+<iframe style="margin-top: 30px;" frameborder="0" width="100%" allowtransparency="true" height="900" scrolling="no" marginwidth="0" marginheight="0" src="http://fms.xinhuanet.com/swf/2017_sjxw/xjpyl_0113/index.html"></iframe>-->
+<!--讲话全文&重要文章-->
+<div class="jhwz_box">
+<div class="jhwz_box_left left"> <img src="/politics/xxjxs/20190618new/images/zyjh_xidd.png" width="437" height="311" /></div>
+<div class="jhwz_box_mid left">
+<div class="dh">
+<h2>讲话全文</h2>
+<p> <a href="/politics/xxjxs/jhyw.htm" target="_blank">更多>></a></p>
+</div>
+<div class="tit">      <a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129628286.htm" target="_blank">习近平在中国－中亚峰会上的主旨讲话</a>    </div>
+<div class="text">中国同中亚国家关系有着深厚的历史渊源、广泛的现实需求、坚实的民意基础，在新时代焕发出勃勃生机和旺盛活力。</div>
+</div>
+<div class="jhwz_box_mid right">
+<div class="dh">
+<h2>重要文章</h2>
+<p> <a href="/politics/xxjxs/zywz.htm" target="_blank">更多>></a></p>
+</div>
+<div class="tit">      <a href="http://www.news.cn/politics/leaders/2023-05/15/c_1129615512.htm" target="_blank">在二十届中央政治局第四次集体学习时的讲话</a>    </div>
+<div class="text">文章强调，以学习贯彻新时代中国特色社会主义思想为题举行集体学习，目的是发挥示范作用，推动全党在主题教育中深入学习贯彻新时代中国特色社会主义思想，打牢思想理论基础。</div>
+</div>
+</div>
+<!--讲习所 part2-->
+<div class="part2" id="index_2" style="height:550px">
+<a class="part2-jxslink" href="/politics/xxjxs/focus.htm" target="_blank"></a>
+<div class="part2-top" style="display:none">
+<a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<a href="http://www.news.cn/politics/xxjxs/2022-04/11/c_1128550782.htm" target="_blank"><img src="../titlepic/112855/1128558785_1649902143185_title0h.png" width="230" height="225" border="0" alt="学习进行时丨田埂上的叮嘱，习近平对这件事非常重视" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.news.cn/politics/xxjxs/2022-04/11/c_1128550782.htm" target="_blank">学习进行时丨田埂上的叮嘱，习近平对这件事非常重视</a></p>
+<p class="logo"><a href="http://www.news.cn/politics/xxjxs/2022-04/11/c_1128550782.htm" target="_blank">习语图解</a></p>
+<p class="time">2022-4-11</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.news.cn/politics/xxjxs/2022-04/12/c_1128553904.htm" target="_blank"><img src="../titlepic/112855/1128558725_1649902158836_title0h.png" width="230" height="225" border="0" alt="学习进行时丨抗疫，习近平放在第一位的始终是这一理念" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.news.cn/politics/xxjxs/2022-04/12/c_1128553904.htm" target="_blank">学习进行时丨抗疫，习近平放在第一位的始终是这一理念</a></p>
+<p class="logo"><a href="http://www.news.cn/politics/xxjxs/2022-04/12/c_1128553904.htm" target="_blank">习语图解</a></p>
+<p class="time">2022-4-12</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/politics/xxjxs/2021-08/18/c_1127772960.htm" target="_blank"><img src="../titlepic/112781/1127811176_1630370587704_title0h.jpg" width="230" height="225" border="0" alt="习近平礼赞&ldquo;医者仁心&rdquo;" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-08/18/c_1127772960.htm" target="_blank">习近平礼赞“医者仁心”</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-08/18/c_1127772960.htm" target="_blank">习语图解</a></p>
+<p class="time">2021-8-18</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/politics/xxjxs/2021-06/15/c_1127565465.htm" target="_blank"><img src="../titlepic/112781/1127811191_1630370551085_title0h.jpg" width="230" height="225" border="0" alt="为什么要知史，习近平这些话语重心长" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-06/15/c_1127565465.htm" target="_blank">为什么要知史，习近平这些话语重心长</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-06/15/c_1127565465.htm" target="_blank">习语图解</a></p>
+<p class="time">2021-6-15</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/politics/xxjxs/2021-06/05/c_1127533908.htm" target="_blank"><img src="../titlepic/112781/1127811187_1630370561502_title0h.jpg" width="230" height="225" border="0" alt="总书记珍视的&ldquo;生态价值&rdquo;" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-06/05/c_1127533908.htm" target="_blank">总书记珍视的“生态价值”</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-06/05/c_1127533908.htm" target="_blank">习语图解</a></p>
+<p class="time">2021-6-5</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/politics/xxjxs/2021-03/25/c_1127254619.htm" target="_blank"><img src="../titlepic/112725/1127257608_1630370382906_title0h.jpg" width="230" height="225" border="0" alt="&ldquo;一生中最好的年华&rdquo;，习近平在思考什么？" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-03/25/c_1127254619.htm" target="_blank">“一生中最好的年华”，习近平在思考什么？</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-03/25/c_1127254619.htm" target="_blank">习语图解</a></p>
+<p class="time">2021-3-26</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/video/sjxw/2021-02/20/c_1211033713.htm" target="_blank"><img src="../titlepic/112712/1127123909_1613959857513_title0h.jpg" width="230" height="225" border="0" alt="事关未来，习近平对这件事一抓到底" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/video/sjxw/2021-02/20/c_1211033713.htm" target="_blank">事关未来，习近平对这件事一抓到底</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/video/sjxw/2021-02/20/c_1211033713.htm" target="_blank">习语图解</a></p>
+<p class="time">2021-2-20</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/politics/xxjxs/2021-02/20/c_1127119449.htm" target="_blank"><img src="../titlepic/112712/1127123902_1613959829113_title0h.jpg" width="230" height="225" border="0" alt="习近平主持召开的这次中央深改委会议强调了哪些事" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-02/20/c_1127119449.htm" target="_blank">习近平主持召开的这次中央深改委会议强调了哪些事</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/politics/xxjxs/2021-02/20/c_1127119449.htm" target="_blank">习语图解</a></p>
+<p class="time">2021-2-20</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/video/sjxw/2020-09/08/c_1210790685.htm" target="_blank"><img src="../titlepic/112646/1126467563_1599552499055_title0h.jpg" width="230" height="225" border="0" alt="又见遍地英雄！习近平讲的这些事让人泪目" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/video/sjxw/2020-09/08/c_1210790685.htm" target="_blank">又见遍地英雄！习近平讲的这些事让人泪目</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/video/sjxw/2020-09/08/c_1210790685.htm" target="_blank">习语图解</a></p>
+<p class="time">2020-9-8</p>
+</div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.xinhuanet.com/video/sjxw/2020-08/08/c_1210743142.htm" target="_blank"><img src="../titlepic/112634/1126347426_1597022984846_title0h.jpg" width="230" height="225" border="0" alt="健身日,总书记倡导我们去&ldquo;打卡&rdquo;" /></a>  
+<div class="picTitle">
+<p class="bg"></p>
+<p class="pd"></p>
+<p class="name"><a href="http://www.xinhuanet.com/video/sjxw/2020-08/08/c_1210743142.htm" target="_blank">健身日,总书记倡导我们去“打卡”</a></p>
+<p class="logo"><a href="http://www.xinhuanet.com/video/sjxw/2020-08/08/c_1210743142.htm" target="_blank">习语图解</a></p>
+<p class="time">2020-8-10</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="part2-bot">
+<div class="tabs"> <a href="/politics/xxjxs/focus.htm" class="tab01 active" target="_blank">Tab 1</a> <a href="/politics/xxjxs/focus.htm" class="tab02" target="_blank">Tab 2</a> <a href="/politics/xxjxs/focus.htm" class="tab03" target="_blank">Tab 3</a> <a href="/politics/xxjxs/focus.htm" class="tab04" target="_blank">Tab 4</a></div>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<!--权威解读-->
+<div class="swiper-slide qwjd">
+<dl>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-04/22/c_1129550880.htm" target="_blank">习近平总书记主持的这个会议释放全面深化改革新信号</a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-04/12/c_1129517139.htm" target="_blank">学习进行时丨“水是生存之本、文明之源”</a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-04/11/c_1129513517.htm" target="_blank">学习进行时丨习近平总书记和广东的故事</a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-04/06/c_1129497435.htm" target="_blank">习近平谈“强国建设、民族复兴”系列之六：一个宏伟目标 </a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-04/05/c_1129492745.htm" target="_blank">习近平谈“强国建设、民族复兴”系列之五：三个“不变” </a></dt>
+<dd><a href="/politics/xxjxs/focus.htm" target="_blank">更多>></a></dd>
+</dl>
+</dl>
+<!--系列解读-->
+<div class="xljd">
+<div class="xljd-tit"> 系列解读</div>
+<!-- 左右箭头 -->
+<a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<ul>
+<li><a href="http://www.news.cn/politics/gzzsjxls/index.htm" target="_blank"><img src="../titlepic/112908/1129088996_1667178236637_title0h.jpg" width="208" height="78" border="0" alt="跟着总书记学历史" /></a></li>
+<li><a href="http://fms.xinhuanet.com/swf/bai/kaijiangall2022/index.html" target="_blank"><img src="../titlepic/112846/1128462037_1646994153318_title0h.jpg" width="208" height="78" border="0" alt="XR系列微视频&ldquo;讲习所开讲了&rdquo;" /></a></li>
+</ul>
+<ul>
+<li><a href="http://fms.news.cn/swf/2021_sjxw/8_12_zdgd/index.html" target="_blank"><img src="../titlepic/112775/1127754794_1628751294890_title0h.jpg" width="208" height="78" border="0" alt="重大观点&mdash;&mdash;&ldquo;新说&rdquo;习近平总书记&ldquo;七一&rdquo;重要讲话" /></a></li>
+<li><a href="http://fms.news.cn/swf/2021_sjxw/7_15_ffsz/index.html" target="_blank"><img src="../titlepic/112767/1127673471_1626749366378_title0h.jpg" width="208" height="78" border="0" alt="非凡数字，&ldquo;数读&rdquo;习近平&ldquo;七一&rdquo;重要讲话" /></a></li>
+</ul>
+</div>
+<div class="swiper-slide">
+<ul>
+<li><a href="http://fms.news.cn/swf/pyh_text/3_12_xjpwjt_2/index.html" target="_blank"><img src="../titlepic/112735/1127356215_1663136403364_title0h.jpg" width="208" height="78" border="0" alt="习近平总书记2021两会&ldquo;微镜头&rdquo;" /></a></li>
+<li><a href="http://fms.news.cn/swf/2020_sjxw/xjpzglz3_12m/index.html" target="_blank"><img src="../titlepic/112712/1127125225_1613982601648_title0h.jpg" width="208" height="78" border="0" alt="专题丨《习近平谈治国理政》第三卷知识点" /></a></li>
+</ul>
+<ul>
+<li><a href="http://fms.news.cn/swf/2020_sjxw/1_2_xjpndjj/index.html" target="_blank"><img src="../titlepic/112543/1125431555_1578385367434_title0h.png" width="208" height="78" border="0" alt="习近平2019年度&ldquo;金句&rdquo;" /></a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- 分页 -->
+<div class="pagination"></div>
+</div>
+</div>
+<!--平语近人-->
+<div class="swiper-slide xyjr">
+<div class="picTitle">
+<p class="img"><a href="http://www.news.cn/politics/xxjxs/2023-05/13/c_1129612340.htm" target="_blank"><img src="../titlepic/112961/1129612367_1684113153884_title0h.jpg" width="470" height="280" border="0" alt="&ldquo;平语&rdquo;近人&mdash;&mdash;习近平总书记这样论述京津冀协同发展" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.news.cn/politics/xxjxs/2023-05/13/c_1129612340.htm" target="_blank">“平语”近人——习近平总书记这样论述京津冀协同发展</a></p>
+</div>
+<dl>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-05/11/c_1129603797.htm" target="_blank">“平语”近人——千年大计，习近平总书记谋划雄安新区发展</a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-05/11/c_1129607269.htm" target="_blank">“平语”近人——关于中国－中亚合作，习近平总书记这样论述</a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2023-04/21/c_1129544927.htm" target="_blank">“平语”近人——关于安全生产，习近平总书记这样说</a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2022-03/18/c_1128482652.htm" target="_blank">“平语”近人——办好这门课，习近平非常关心</a></dt>
+<dt><a href="http://www.news.cn/politics/xxjxs/2022-03/05/c_1128441363.htm" target="_blank">“平语”近人——习近平这样颂英模</a></dt>
+<dd><a href="/politics/xxjxs/focus.htm" target="_blank">更多>></a></dd>
+</dl>
+</div>
+<!--习语图解-->
+<div class="swiper-slide xytj">
+<ul>
+<li>
+<a href="http://www.news.cn/politics/xxjxs/2023-05/21/c_1129633975.htm" target="_blank"><img src="../titlepic/112963/1129635222_1684716571994_title0h.png" width="230" height="180" border="0" alt="学习进行时丨做好残疾人工作，习近平总书记这样说" /></a>  
+<h3><a href="http://www.news.cn/politics/xxjxs/2023-05/21/c_1129633975.htm" target="_blank">学习进行时丨做好残疾人工作，习近平总书记这样说</a></h3>
+</li>
+<li>
+<a href="http://www.news.cn/politics/xxjxs/2023-05/11/c_1129605598.htm" target="_blank"><img src="../titlepic/112960/1129605666_1683771206467_title0h.png" width="230" height="180" border="0" alt="学习进行时丨&ldquo;建设雄安新区是千年大计、国家大事&rdquo;" /></a>  
+<h3><a href="http://www.news.cn/politics/xxjxs/2023-05/11/c_1129605598.htm" target="_blank">学习进行时丨“建设雄安新区是千年大计、国家大事”</a></h3>
+</li>
+<li>
+<a href="http://www.news.cn/politics/xxjxs/2023-05/04/c_1129589064.htm" target="_blank"><img src="../titlepic/112958/1129589313_1683193721613_title0h.jpg" width="230" height="180" border="0" alt="学习进行时丨习近平总书记寄语大学生" /></a>  
+<h3><a href="http://www.news.cn/politics/xxjxs/2023-05/04/c_1129589064.htm" target="_blank">学习进行时丨习近平总书记寄语大学生</a></h3>
+</li>
+<li>
+<a href="http://www.news.cn/politics/xxjxs/2023-04/19/c_1129539289.htm" target="_blank"><img src="../titlepic/112954/1129541785_1681968878989_title0h.png" width="230" height="180" border="0" alt="学习进行时丨习近平总书记这样谈调查研究" /></a>  
+<h3><a href="http://www.news.cn/politics/xxjxs/2023-04/19/c_1129539289.htm" target="_blank">学习进行时丨习近平总书记这样谈调查研究</a></h3>
+</li>
+</ul>
+</div>
+<!--近平style-->
+<div class="swiper-slide xyjr">
+<div class="piclist">
+<div class="picTitle">
+<p class="img"><a href="http://www.news.cn/video/20230311/3b8687af88db4edea2864a9d89cfeef1/c.html" target="_blank"><img src="../titlepic/112942/1129426786_1678523560842_title0h.jpg" width="470" height="280" border="0" alt="重磅微视频：春天的共鸣" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.news.cn/video/20230311/3b8687af88db4edea2864a9d89cfeef1/c.html" target="_blank">重磅微视频：春天的共鸣</a></p>
+</div>
+<div class="picTitle hide">
+<p class="img"><a href="http://www.xinhuanet.com/video/2021-06/30/c_1211222951.htm" target="_blank"><img src="../titlepic/112762/1127625982_1625533054009_title0h.jpg" width="470" height="280" border="0" alt="重磅微视频：复兴&middot;领航" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/video/2021-06/30/c_1211222951.htm" target="_blank">重磅微视频：复兴·领航</a></p>
+</div>
+<div class="picTitle hide">
+<p class="img"><a href="http://www.xinhuanet.com/video/2021-02/25/c_1211041106.htm" target="_blank"><img src="../titlepic/112714/1127140179_1614254978302_title0h.jpg" width="470" height="280" border="0" alt="重磅微视频：决胜" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/video/2021-02/25/c_1211041106.htm" target="_blank">重磅微视频：决胜</a></p>
+</div>
+<div class="picTitle hide">
+<p class="img"><a href="http://www.xinhuanet.com/video/2020-09/06/c_1210787632.htm" target="_blank"><img src="../titlepic/112646/1126461375_1678523738982_title0h.jpg" width="470" height="280" border="0" alt="重磅微视频：习近平的战疫日历" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/video/2020-09/06/c_1210787632.htm" target="_blank">重磅微视频：习近平的战疫日历</a></p>
+</div>
+<div class="picTitle hide">
+<p class="img"><a href="http://www.news.cn/video/2021-08/27/c_1211346764.htm" target="_blank"><img src="../titlepic/112780/1127807979_1630287125879_title0h.png" width="470" height="280" border="0" alt="&ldquo;1141911&rdquo;，这个密码请牢记" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.news.cn/video/2021-08/27/c_1211346764.htm" target="_blank">“1141911”，这个密码请牢记</a></p>
+</div>
+</div>
+<ul>
+<li class="selected"><a href="http://www.news.cn/video/20230311/3b8687af88db4edea2864a9d89cfeef1/c.html" target="_blank">重磅微视频：春天的共鸣</a></li>
+<li><a href="http://www.xinhuanet.com/video/2021-06/30/c_1211222951.htm" target="_blank">重磅微视频：复兴·领航</a></li>
+<li><a href="http://www.xinhuanet.com/video/2021-02/25/c_1211041106.htm" target="_blank">重磅微视频：决胜</a></li>
+<li><a href="http://www.xinhuanet.com/video/2020-09/06/c_1210787632.htm" target="_blank">重磅微视频：习近平的战疫日历</a></li>
+<li><a href="http://www.news.cn/video/2021-08/27/c_1211346764.htm" target="_blank">“1141911”，这个密码请牢记</a></li>
+<dd><a href="/politics/xxjxs/focus.htm" target="_blank">更多>></a></dd>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--学习述评-->
+<div class="xssp_bg">
+<div class="xssp_box" id="index_001">
+<div class="dh"> <a href="/politics/xxjxs/jszs.htm" target="_blank"><img src="/politics/xxjxs/20190618new/images/xxsp_dh.png" width="1200" height="39" /></a></div>
+<div class="xssp_nr left xxpstop">
+<div class="tit_box">
+<div class="time">
+<h2>21</h2>
+<p>2023.5</p>
+</div>
+<div class="tit">
+<h2>            <a href="http://www.news.cn/politics/leaders/2023-05/21/c_1129632874.htm" target="_blank">续写千年友谊 开辟崭新未来——习近平主席在西安主持首届中国－中亚峰会纪实</a>          </h2>
+<p>建交31年来首次以实体形式举办的中国－中亚峰会，标志着中国－中亚元首会晤机制正式扬帆起航。</p>
+</div>
+</div>
+<ul class="xssp_list1">
+<li>          <a href="http://www.news.cn/politics/leaders/2023-05/14/c_1129612436.htm" target="_blank">习近平总书记考察雄安新区建设、京津冀协同发展并主持召开座谈会纪实</a>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-05/14/c_1129613736.htm" target="_blank">习近平总书记引领推动京津冀协同发展纪事</a>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-05/12/c_1129607855.htm" target="_blank">习近平总书记指引雄安新区规划建设的故事</a>        </li>
+<li>          <a href="http://www.news.cn/world/2023-04/25/c_1129564980.htm" target="_blank">携手共行天下大道——2023年春季中国元首外交纪事</a>        </li>
+</ul>
+</div>
+<style>
+.xssp_nr.xxkp{
+margin-top: 25px;
+height: 443px;
+}
+.xssp_nr .lmt{
+position: relative;
+}
+.xssp_nr .lmt span{ 
+position: absolute;
+width: 50px;
+height: 20px;
+right: 12px;
+top: 16px;
+font-size: 12px;
+z-index: 2;
+color: #fff;
+}
+.xssp_nr .lmt span a{
+color: #fff;
+} 
+.xssp_nr dl{
+margin-top: 20px;
+}
+.xssp_nr dt{
+overflow: hidden;
+margin-bottom: 10px;
+border-bottom: 1px dotted #fff;
+padding-bottom: 10px;
+position: relative;
+}
+.xssp_nr dt img{
+width: 290px;
+height: 163px;
+float: left;
+margin-right: 20px;
+}
+.xssp_nr dt h3{
+font-size: 18px;
+line-height: 24px;
+color: #000;
+margin-bottom: 10px; font-weight:bold;
+}
+.xssp_nr dt h3 span{ display:none;
+font-size: 14px;
+margin-top: 40px;
+position:absolute;
+width: 70px;
+height: 20px;
+line-height: 20px;
+right: 200px;
+bottom: 10px;
+color: #b8c7e0;
+}
+.xssp_nr dt h3 a{
+color: #000;
+}
+.xssp_nr dt p{
+font-size: 14px; line-height:24px;
+color: #333;
+}
+.xssp_nr dd{
+clear: both;
+}
+</style>
+<div class="xssp_nr right  xxpstop">
+<div class="tit_box">
+<div class="time">
+<h2>19</h2>
+<p>2023.5</p>
+</div>
+<div class="tit">
+<h2>            <a href="http://www.news.cn/world/2023-05/19/c_1129630634.htm" target="_blank">新华社评论员：携手开创中国—中亚美好未来</a>          </h2>
+<p>5月19日，国家主席习近平在陕西省西安市主持首届中国—中亚峰会并发表主旨讲话，回顾中国同中亚友好交往的历史，就构建更加紧密的中国—中亚命运共同体阐明中国主张，就深化中国—中亚合作提出中国方案和务实举措。</p>
+</div>
+</div>
+<ul class="xssp_list1">
+<li>          <a href="http://www.news.cn/politics/2023-05/18/c_1129626899.htm" target="_blank">新华社评论员：在以学增智中不断提升能力</a>        </li>
+<li>          <a href="http://www.news.cn/world/2023-05/19/c_1129626963.htm" target="_blank">新华社评论员：中国—中亚合作为世界和平与发展注入正能量</a>        </li>
+<li>          <a href="http://www.news.cn/politics/2023-05/14/c_1129612413.htm" target="_blank">新华社评论员：让京津冀成为中国式现代化建设的先行区、示范区</a>        </li>
+<li>          <a href="http://www.news.cn/politics/2023-05/12/c_1129607807.htm" target="_blank">新华社评论员：高标准高质量推进雄安新区建设</a>        </li>
+</ul>
+</div>
+</div>
+</div>
+<style>
+/*选项卡组件1*/ 
+.tab1{width:1200px;position:relative;margin:40px auto; height:536px;} 
+.tab1 .tab_menu{float:left;position:absolute;z-index:1; left:363px;} 
+.tab1 .tab_menu li{float:left;width:180px;height:30px;line-height:30px;border-bottom:0px;cursor:pointer;margin:0 2px 0 0; color: #185b8b; font-weight:bold;
+font-size: 28px;} 
+.tab1 .tab_menu li a{ color: #185b8b;
+font-size: 28px;} 
+.tab1 .tab_box{width:1200px;height:auto;clear:both;top:30px;position:relative;} 
+.tab1 .tab_menu .selected{cursor:pointer; color:#db3138;}
+.tab1 .tab_menu .selected a{color:#db3138;} 
+.tab1 .tab_box div{}  
+.tab1 .hide{display:none;} 
+.tab1 .digc{ padding-left:21px;}
+.tab1 .dysd{ width:1200px; margin:auto;}
+.ztlm{ width:1200px; height:321px; margin:auto; margin-top:30px;}
+.ztlml{ float:left; width:827px; height:321px;}
+.ztlml img{  width:827px; height:321px;}
+.ztlmr{ float:right; width:373px; height:321px; background:#020e29;}
+.ztlmr ul{ }
+.ztlmr li{ width:349px; height:143px; margin:auto; margin-top:12px; }
+.picNews2 {height: 143px;overflow: hidden;position: relative;width: 349px;} 
+.picNews2 .picImg a{display: block;line-height: 0} 
+.picNews2 .picImg img {height: 143px; width: 349px;} 
+.picNews2 .picBg {background: #000 none repeat scroll 0 0;bottom: 0;height: 50px;left: 0;opacity: 0.5; filter:alpha(opacity=50); position: absolute;width: 100%;z-index: 10;} 
+.picNews2 .picTit {bottom: 0;color: #ffffff;height: 47px;left: 0;line-height: 22px;overflow: hidden;position: absolute; padding:0 10px;z-index: 11; font-size:18px; padding:0 10px;} 
+.picNews2 .picTit a{color: #ffffff;} 
+</style>
+<div>
+<div class="tab1" id="index_003">
+<ul class="tab_menu" id="index_004">
+<li class="selected"><a href="/politics/xxjxs/dygc.htm" target="_blank">第一观察</a> <img src="/politics/xxjxs/images/20210511/dygc.jpg" class="digc" /></li>
+<li><a href="/politics/xxjxs/dysd.htm" target="_blank">第一视点</a> <img src="/politics/xxjxs/images/20210511/dygc.jpg" class="digc" /></li>
+<li><a href="/politics/xxjxs/dybd.htm" target="_blank">第一报道</a></li>
+</ul>
+<div class="tab_box">
+<div>
+<div class="dysd">
+<div class="xssp_nr xxkp left">
+<dl>
+<dt>
+<a href="http://www.news.cn/politics/leaders/2023-05/27/c_1129649357.htm" target="_blank"><img src="http://www.news.cn/politics/titlepic/112964/1129649832_1685157115650_title0h.jpg" alt="第一观察｜对中关村，习近平总书记寄予厚望" /></a>
+<h3> <a href="http://www.news.cn/politics/leaders/2023-05/27/c_1129649357.htm" target="_blank">第一观察｜对中关村，习近平总书记寄予厚望 </a> <span>2023.05.27</span></h3>
+<p>5月25日晚，2023中关村论坛在北京拉开帷幕，习近平总书记发来贺信。这是中关村论坛第三次收到来自习近平总书记的致贺。</p>
+</dt>
+<dd>
+<ul class="xssp_list">
+<li><a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129627005.htm" target="_blank">第一观察丨包容四海、兼纳百川，这场欢迎仪式意蕴深长</a></li>
+<li><a href="http://www.news.cn/politics/leaders/2023-05/13/c_1129610964.htm" target="_blank">第一观察｜总书记强调做好盐碱地特色农业大文章</a></li>
+<li><a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129607490.htm" target="_blank">第一观察丨领会总书记考察雄安的深意</a></li>
+<li><a href="http://www.news.cn/politics/leaders/2023-04/27/c_1129574797.htm" target="_blank">第一观察｜传统村落保护，总书记这样强调</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<!--第1报道-->
+<div class="xssp_nr xxkp right">
+<dl>
+<dt>
+<a href="http://www.news.cn/world/2023-05/20/c_1129632809.htm" target="_blank"><img src="http://www.news.cn/politics/titlepic/112963/1129632886_1684623777520_title0h.jpg" alt="第一观察丨领会习近平主席中国&mdash;中亚峰会主旨讲话的深意" /></a>
+<h3> <a href="http://www.news.cn/world/2023-05/20/c_1129632809.htm" target="_blank">第一观察丨领会习近平主席中国—中亚峰会主旨讲话的深意</a> <span>2023.05.21</span></h3>
+<p>峰会上，习近平主席发表主旨讲话，围绕世界需要一个什么样的中亚提出“四点主张”，就建设中国—中亚命运共同体提出“四个坚持”，着眼中国同中亚国家合作提出“八点建议”。</p>
+</dt>
+<dd>
+<ul class="xssp_list">
+<li><a href="http://www.news.cn/politics/leaders/2023-04/16/c_1129527113.htm" target="_blank">第一观察丨中巴元首会晤的温度、高度与深度</a></li>
+<li><a href="http://www.news.cn/politics/leaders/2023-04/14/c_1129521615.htm" target="_blank">第一观察丨在广东考察，总书记进一步阐释中国式现代化</a></li>
+<li><a href="http://www.news.cn/politics/leaders/2023-04/13/c_1129517493.htm" target="_blank">第一观察｜从总书记考察“渔业种子”透视大食物观</a></li>
+<li><a href="http://www.news.cn/politics/leaders/2023-04/11/c_1129513734.htm" target="_blank">第一观察丨总书记四次考察广东蕴含深意</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="hide">
+<div class="dysd">
+<div class="d1sd_box left" id="index_003">
+<ul class="d1sd_list">
+<li>
+<div class="dtit_box">
+<p>2023-05-19</p>
+<h2>              <a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129626993.htm" target="_blank">第1视点｜好朋友相聚在古都</a>            </h2>
+</div>
+<div class="dimg_box">            <a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129626993.htm" target="_blank"><img src="../titlepic/112962/1129627593_1684463519268_title0h.jpg" width="169" height="299" border="0" alt="第1视点｜好朋友相聚在古都" /></a>          </div>
+</li>
+<li>
+<div class="dtit_box">
+<p>2023-05-12</p>
+<h2>              <a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129607774.htm" target="_blank">第1视点｜习近平在沧州市考察旱碱地麦田</a>            </h2>
+</div>
+<div class="dimg_box">            <a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129607774.htm" target="_blank"><img src="../titlepic/112960/1129607841_1683960238970_title0h.jpg" width="169" height="299" border="0" alt="第1视点｜习近平在沧州市考察旱碱地麦田" /></a>          </div>
+</li>
+<li>
+<div class="dtit_box">
+<p>2023-05-12</p>
+<h2>              <a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129607746.htm" target="_blank">第1视点｜习近平：推动雄安新区建设不断取得新进展</a>            </h2>
+</div>
+<div class="dimg_box">            <a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129607746.htm" target="_blank"><img src="../titlepic/112960/1129607840_1683852606197_title0h.jpg" width="169" height="299" border="0" alt="第1视点｜习近平：推动雄安新区建设不断取得新进展" /></a>          </div>
+</li>
+</ul>
+</div>
+<!--第1报道-->
+<div class="d1bd_box right" id="index_004">
+<ul class="d1bd_list">
+<li>          <a href="http://www.news.cn/politics/leaders/2023-05/19/c_1129630099.htm" target="_blank">第1视点｜习近平：共同迎接六国更加美好的明天</a>          <span class=""></span>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-05/15/c_1129613900.htm" target="_blank">第1视点｜情牵京津冀</a>          <span class=""></span>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129604855.htm" target="_blank">第1视点｜此次考察，总书记首先来到这里</a>          <span class=""></span>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-04/15/c_1129525891.htm" target="_blank">第1视点｜南粤春正好</a>          <span class=""></span>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-04/13/c_1129521078.htm" target="_blank">第1视点｜习近平考察新能源汽车企业</a>          <span class=""></span>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-04/12/c_1129517181.htm" target="_blank">第1视点｜总书记调研特色种植业</a>          <span class=""></span>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-04/11/c_1129513923.htm" target="_blank">第1视点｜习近平：把红树林保护好</a>          <span class=""></span>        </li>
+<li>          <a href="http://www.news.cn/politics/leaders/2023-04/11/c_1129513825.htm" target="_blank">第1视点丨习近平考察红树林</a>          <span class=""></span>        </li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="hide">
+<div class="dysd">
+<div class="xssp_nr xxkp left">
+<dl>
+<dt>
+<a href="http://www.news.cn/world/2022-06/20/c_1211658874.htm" target="_blank"><img src="http://www.news.cn/politics/titlepic/112875/1128759955_1655731674134_title0h.jpg" alt="第一报道 | 习近平主席重要论述启迪金砖合作行稳致远" /></a>
+<h3> <a href="http://www.news.cn/world/2022-06/20/c_1211658874.htm" target="_blank">第一报道 | 习近平主席重要论述启迪金砖合作行稳致远</a> <span>2022.06.20</span></h3>
+<p>志合者，不以山海为远。从2006年9月首次金砖国家外长会议至今，金砖合作持续深化。多年来，习近平主席发表的一系列重要论述，启迪金砖合作行稳致远。</p>
+</dt>
+<dd>
+<ul class="xssp_list">
+<li><a href="http://www.news.cn/world/2022-06/16/c_1211657493.htm" target="_blank">第一报道 | 习近平总书记的回信激励我为深化非中友谊而努力</a></li>
+<li><a href="http://www.news.cn/world/2022-06/15/c_1211657298.htm" target="_blank">第一报道 | 习近平主席同普京总统通电话</a></li>
+<li><a href="http://www.news.cn/world/2022-06/11/c_1211655861.htm" target="_blank">第一报道 | 习主席的全球安全倡议引发海外学者共鸣</a></li>
+<li><a href="http://www.news.cn/world/2022-06/09/c_1211655413.htm" target="_blank">第一报道 | 习近平给非洲中青年干部回信</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<!--第1报道-->
+<div class="xssp_nr xxkp right">
+<dl>
+<dt>
+<a href="http://www.news.cn/world/2022-06/17/c_1211658146.htm" target="_blank"><img src="http://www.news.cn/politics/titlepic/112875/1128752393_1655474353812_title0h.jpg" alt="第一报道 | 习近平防治荒漠绿色理念启迪世界" /></a>
+<h3> <a href="http://www.news.cn/world/2022-06/17/c_1211658146.htm" target="_blank">第一报道 | 习近平防治荒漠绿色理念启迪世界</a> <span>2022.06.17</span></h3>
+<p>习近平主席曾三次致信，为中国荒漠化防治作出重要指示，为全球荒漠化治理贡献中国智慧。</p>
+</dt>
+<dd>
+<ul class="xssp_list">
+<li><a href="http://www.news.cn/world/2022-06/08/c_1211654996.htm" target="_blank">第一报道 | 构建海洋命运共同体，习近平这样倡导</a></li>
+<li><a href="http://www.news.cn/world/2022-06/07/c_1211654486.htm" target="_blank">第一报道 | 共促全球发展，习主席这样妙喻</a></li>
+<li><a href="http://www.news.cn/world/2022-06/02/c_1211652879.htm" target="_blank">第一报道 | 习主席关心的这条非洲“繁荣之路”，五岁了！</a></li>
+<li><a href="http://www.news.cn/world/2022-05/30/c_1211652010.htm" target="_blank">第一报道 | 推动中国与太平洋岛国合作 习主席这样强调</a></li>
+</ul>
+</dd>
+</dl>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div></div>
+<!--外交习语-->
+<div class="wjxy_box" id="index_002">
+<div class="dh"> <a href="/politics/xxjxs/xxkp.htm" target="_blank"><img src="/politics/xxjxs/images/20210511/xxkp.png" width="1200" height="39" /></a></div>
+<div class="device wjxy_con">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<ul class="wjxy_list">
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129604854.htm" target="_blank"><img src="../titlepic/112960/1129604860_1683824750430_title0h.jpg" width="350" height="198" border="0" alt="学习快评丨这座城，总书记念兹在兹" /></a>                  </div>
+<div class="wjxy_tit">
+<div class="wj_date"><span>11</span>/2023.5</div>
+<div class="wj_tit">                      <a href="http://www.news.cn/politics/leaders/2023-05/11/c_1129604854.htm" target="_blank">这座城，总书记念兹在兹</a>                    </div>
+</div>
+</li>
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/leaders/2023-04/13/c_1129521019.htm" target="_blank"><img src="../titlepic/112952/1129521529_1681433089539_title0h.jpg" width="350" height="198" border="0" alt="学习快评丨总书记为&ldquo;以学铸魂&rdquo;指明方向" /></a>                  </div>
+<div class="wjxy_tit">
+<div class="wj_date"><span>13</span>/2023.4</div>
+<div class="wj_tit">                      <a href="http://www.news.cn/politics/leaders/2023-04/13/c_1129521019.htm" target="_blank">总书记为“以学铸魂”指明方向</a>                    </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="swiper-slide">
+<ul class="wjxy_list">
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/2023-03/07/c_1129418928.htm" target="_blank"><img src="../titlepic/112941/1129419366_1678182457666_title0h.jpg" width="350" height="198" border="0" alt="学习快评丨至关重要的&ldquo;二十四字诀&rdquo;" /></a>                  </div>
+<div class="wjxy_tit">
+<div class="wj_date"><span>07</span>/2023.3</div>
+<div class="wj_tit">                      <a href="http://www.news.cn/politics/2023-03/07/c_1129418928.htm" target="_blank">至关重要的“二十四字诀”</a>                    </div>
+</div>
+</li>
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/leaders/2023-03/06/c_1129416654.htm" target="_blank"><img src="../titlepic/112941/1129416769_1678101235973_title0h.jpg" width="350" height="198" border="0" alt="学习快评丨任何时候中国都不能缺少制造业" /></a>                  </div>
+<div class="wjxy_tit">
+<div class="wj_date"><span>06</span>/2023.3</div>
+<div class="wj_tit">                      <a href="http://www.news.cn/politics/leaders/2023-03/06/c_1129416654.htm" target="_blank">任何时候中国都不能缺少制造业</a>                    </div>
+</div>
+</li>
+</ul>
+</div>
+<div class="swiper-slide">
+<ul class="wjxy_list">
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/leaders/2023-01/19/c_1129299228.htm" target="_blank"><img src="../titlepic/112929/1129299578_1674096750455_title0h.jpg" width="350" height="198" border="0" alt="学习快评丨总书记的新春牵挂温暖人心" /></a>                  </div>
+<div class="wjxy_tit">
+<div class="wj_date"><span>19</span>/2023.1</div>
+<div class="wj_tit">                      <a href="http://www.news.cn/politics/leaders/2023-01/19/c_1129299228.htm" target="_blank">总书记的新春牵挂温暖人心</a>                    </div>
+</div>
+</li>
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/leaders/2022-10/28/c_1129085017.htm" target="_blank"><img src="../titlepic/112908/1129085171_1666944114766_title0h.jpg" width="350" height="198" border="0" alt="学习快评丨赓续红色血脉 传承奋斗精神" /></a>                  </div>
+<div class="wjxy_tit">
+<div class="wj_date"><span>28</span>/2022.10</div>
+<div class="wj_tit">                      <a href="http://www.news.cn/politics/leaders/2022-10/28/c_1129085017.htm" target="_blank">赓续红色血脉 传承奋斗精神</a>                    </div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- 分页 -->
+<div class="pagination"></div>
+</div>
+</div>
+<div style="width:1200px; margin:auto;" id="index_006">
+<iframe style="margin:50px 0 10px 0" width="1200" height="520" frameborder="0" scrolling="no" src="../../../../../politics/xxjxs/2021xbqzy.htm"></iframe>
+</div>
+<div class="clearfix"></div>
+<div style="width:1200px; margin:auto; margin-bottom:20px;">
+<!--自习课-->
+<div class="zxk_box right" id="index_005">
+<div class="dh"> <a href="/politics/xxjxs/xxgch.htm" target="_blank"><img src="/politics/xxjxs/images/20210511/xxgsh.png" width="578" height="39" /></a></div>
+<div class="device zxk_swiper">
+<!-- 左右箭头 -->
+<a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<ul class="zxl_list">
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/leaders/2023-03/06/c_1129416548.htm" target="_blank"><img src="../titlepic/112941/1129416758_1678101558243_title0h.jpg" width="224" height="301" border="0" alt="连心之路" /></a>                  </div>
+<div class="tit">                    <a href="http://www.news.cn/politics/leaders/2023-03/06/c_1129416548.htm" target="_blank">连心之路</a>                  </div>
+<div class="bg"></div>
+<div class="bg_jj"></div>
+</li>
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/leaders/2022-09/02/c_1128971649.htm" target="_blank"><img src="../titlepic/112897/1128972009_1662115515758_title0h.jpg" width="224" height="301" border="0" alt="复兴有我！" /></a>                  </div>
+<div class="tit">                    <a href="http://www.news.cn/politics/leaders/2022-09/02/c_1128971649.htm" target="_blank">复兴有我！</a>                  </div>
+<div class="bg"></div>
+<div class="bg_jj"></div>
+</li>
+</ul>
+</div>
+<div class="swiper-slide">
+<ul class="zxl_list">
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/2021-11/14/c_1128063247.htm" target="_blank"><img src="../titlepic/112806/1128063532_1636931688871_title0h.jpg" width="224" height="301" border="0" alt="与党同龄的她，在全国新闻界&ldquo;独伊&rdquo;无二！" /></a>                  </div>
+<div class="tit">                    <a href="http://www.news.cn/politics/2021-11/14/c_1128063247.htm" target="_blank">与党同龄的她，在全国新闻界“独伊”无二！</a>                  </div>
+<div class="bg"></div>
+<div class="bg_jj"></div>
+</li>
+<li>
+<div class="img">                    <a href="http://www.news.cn/politics/2021-11/08/c_1128044689.htm" target="_blank"><img src="../titlepic/112804/1128044734_1636378777279_title0h.jpg" width="224" height="301" border="0" alt="谁为&ldquo;我国民族企业家的楷模&rdquo;？" /></a>                  </div>
+<div class="tit">                    <a href="http://www.news.cn/politics/2021-11/08/c_1128044689.htm" target="_blank">谁为“我国民族企业家的楷模”？</a>                  </div>
+<div class="bg"></div>
+<div class="bg_jj"></div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- 分页 -->
+<div class="pagination"></div>
+</div>
+</div>
+<!--金色相框-->
+<div class="jsxk_box left" id="index_008">
+<div class="dh"> <a href="/politics/xxjxs/jglh.htm" target="_blank"><img src="/politics/xxjxs/images/20210511/jg.png" width="580" height="39" /></a></div>
+<div class="device jsxk_swiper">
+<!-- 左右箭头 -->
+<a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<a href="http://www.news.cn/politics/leaders/2023-05/29/c_1129654029.htm" target="_blank">
+<img src="../titlepic/112965/1129654368_1685356708708_title0h.jpg" width="580" height="326" border="0" alt="镜观&middot;领航｜国家科技创新力的根本源泉在于人" />              
+<div class="player"><img src="/politics/xxjxs/20190618new/images/jsxk_player.png" width="116" height="116" /></div>
+</a>
+<div class="title">                <a href="http://www.news.cn/politics/leaders/2023-05/29/c_1129654029.htm" target="_blank">镜观·领航｜国家科技创新力的根本源泉在于人</a>              </div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.news.cn/politics/leaders/2023-05/20/c_1129630920.htm" target="_blank">
+<img src="../titlepic/112963/1129630990_1684538679019_title0h.jpg" width="580" height="326" border="0" alt="镜观&middot;领航｜开启中国中亚关系新时代" />              
+<div class="player"><img src="/politics/xxjxs/20190618new/images/jsxk_player.png" width="116" height="116" /></div>
+</a>
+<div class="title">                <a href="http://www.news.cn/politics/leaders/2023-05/20/c_1129630920.htm" target="_blank">镜观·领航｜开启中国中亚关系新时代</a>              </div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.news.cn/politics/leaders/2023-05/17/c_1129622630.htm" target="_blank">
+<img src="../titlepic/112962/1129622682_1684321987360_title0h.jpg" width="580" height="326" border="0" alt="镜观&middot;领航｜一个博物馆就是一所大学校" />              
+<div class="player"><img src="/politics/xxjxs/20190618new/images/jsxk_player.png" width="116" height="116" /></div>
+</a>
+<div class="title">                <a href="http://www.news.cn/politics/leaders/2023-05/17/c_1129622630.htm" target="_blank">镜观·领航｜一个博物馆就是一所大学校</a>              </div>
+</div>
+<div class="swiper-slide">
+<a href="http://www.news.cn/politics/leaders/2023-05/13/c_1129610954.htm" target="_blank">
+<img src="../titlepic/112961/1129610978_1683911176811_title0h.jpg" width="580" height="326" border="0" alt="镜观&middot;领航｜在田间地头，总书记关心农业科技创新" />              
+<div class="player"><img src="/politics/xxjxs/20190618new/images/jsxk_player.png" width="116" height="116" /></div>
+</a>
+<div class="title">                <a href="http://www.news.cn/politics/leaders/2023-05/13/c_1129610954.htm" target="_blank">镜观·领航｜在田间地头，总书记关心农业科技创新</a>              </div>
+</div>
+</div>
+</div>
+<!-- 分页 -->
+<div class="pagination"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+<!--新华社专区 part4-->
+<div class="part4" style="display:none;">
+<div class="part4-tit"> <a href="#" target="_blank"><img src="/politics/xxjxs/images/20161227_xxxdd_part4Img01_v1.png" /></a></div>
+<div class="part4-left">
+<div class="part4-left-top">
+<h3><a href="http://news.xinhuanet.com/politics/2016-12/08/c_1120083340.htm" target="_blank">新华社评论员：立德树人，为民族复兴提供人才支撑</a></h3>
+<p>认真贯彻落实以习近平同志为核心的党中央的部署要求，把高校思想政治工作推向新境界，开创我国高等教育事业发展新局面，为实现“两个一百年”奋斗目标、实现民族复兴中国梦提供有力人才支撑。<a href="http://news.xinhuanet.com/politics/2016-12/08/c_1120083340.htm" target="_blank">[详细]</a></p>
+</div>
+<div class="part4-left-bot">
+<ul>
+<li><a href="http://news.xinhuanet.com/world/2016-10/17/c_1119735292.htm" target="_blank">新华社评论员：共同擘画金砖发展新蓝图 </a></li>
+<li><a href="http://news.xinhuanet.com/politics/2016-10/21/c_1119766235.htm" target="_blank">新华社评论员：让理想信念之光照亮奋斗之路</a></li>
+<li><a href="http://news.xinhuanet.com/politics/2016-11/02/c_1119838414.htm" target="_blank">新华社评论员：牵住改革“牛鼻子” 落实改革硬任务</a></li>
+<li><a href="http://news.xinhuanet.com/politics/2016-12/01/c_129385352.htm" target="_blank">新华社评论员：担当历史使命　筑就文艺高峰</a></li>
+<li><a href="http://news.xinhuanet.com/politics/2016-10/11/c_1119697813.htm" target="_blank">新华社评论员：牢牢抓住国企改革发展的根与魂</a></li>
+</ul>
+</div>
+</div>
+<div class="part4-right">
+<div class="part4-right-top">
+<a href="http://www.xinhuanet.com/video/gjxc/index.htm" target="_blank"><img src="../titlepic/112029/1120291319_1484124572111_title0h.png" width="490" height="230" border="0" alt="《国家相册》新年特辑：心中的牵挂" /></a>
+</div>
+<div class="part4-right-bot">
+<a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-02/06/c_128708008.htm" target="_blank"><img src="../titlepic/112029/1120297362_1484199279172_title0h.png" width="160" height="210" border="0" alt="从习近平的点赞中找春联" /></a></div>
+<div class="text">
+<h3><a href="http://news.xinhuanet.com/video/sjxw/2016-02/06/c_128708008.htm" target="_blank">从习近平的点赞中找春联</a></h3>
+<p></p>
+</div>
+<div class="bg"></div>
+</div>
+<div class="swiper-slide">
+<div class="img"><a href="http://news.xinhuanet.com/video/sjxw/2017-01/12/c_129443207.htm" target="_blank"><img src="../titlepic/112029/1120297344_1484199008506_title0h.jpg" width="160" height="210" border="0" alt="猜猜看：习近平2016讲话第一高频词" /></a></div>
+<div class="text">
+<h3><a href="http://news.xinhuanet.com/video/sjxw/2017-01/12/c_129443207.htm" target="_blank">猜猜看：习近平2016讲话第一高频词 </a></h3>
+<p></p>
+</div>
+<div class="bg"></div>
+</div>
+<div class="swiper-slide">
+<div class="img"><a href="http://fms.news.cn/swf/2016_sjxw/lhj/index.html" target="_blank"><img src="../titlepic/112029/1120291447_1484125189353_title0h.jpg" width="160" height="210" border="0" alt="总书记的表情" /></a></div>
+<div class="text">
+<h3><a href="http://fms.news.cn/swf/2016_sjxw/lhj/index.html" target="_blank">总书记的表情</a></h3>
+<p></p>
+</div>
+<div class="bg"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--近平style iframe-->
+<!--http://fms.news.cn/swf/2016_sjxw/xjpstyle/index.html-->
+<iframe style="display:none;" id="index_4" frameborder="0" width="100%" allowtransparency="true" height="900" scrolling="no" marginwidth="0" marginheight="0" src="http://fms.xinhuanet.com/swf/2017_sjxw/xjpstyle-series/index.html"></iframe>
+<!--精彩视频 part5-->
+<div style="text-align: center;margin-bottom: 25px; display:none" id="index_009"><a href="/politics/xxjxs/video01/index.htm" target="_blank"><img src="/politics/xxjxs/images/jpstylelmdht.png" /></a></div>
+<div class="part5" id="index_5" style="margin-top:-4px; display:none">
+<div class="spLogo"> <a href="/politics/xxjxs/video01/index.htm" target="_blank"></a></div>
+<div id="tabs" class="tabs">
+<div class="tabBox tabBox1"><a href="http://www.xinhuanet.com/video/2021-06/30/c_1211222951.htm" target="_blank">重磅微视频：复兴·领航</a></div>
+<div class="tabBox tabBox2"><a href="http://www.xinhuanet.com/video/2021-02/25/c_1211041106.htm" target="_blank">重磅微视频：决胜</a></div>
+<div class="tabBox tabBox3"><a href="http://www.xinhuanet.com/video/2020-11/05/c_1210874659.htm" target="_blank">强国之路</a></div>
+<div class="tabBox tabBox4"><a href="http://www.xinhuanet.com/video/2020-07/25/c_1210719775.htm" target="_blank">微视频：希望的田野</a></div>
+<div class="tabBox tabBox5"><a href="http://www.xinhuanet.com/video/2020-06/12/c_1210657972.htm" target="_blank">特殊的客人</a></div>
+</div>
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><a href="http://www.xinhuanet.com/video/2021-06/30/c_1211222951.htm" target="_blank"><img src="../titlepic/112762/1127625983_1625533208248_title0h.jpg" alt="重磅微视频：复兴&middot;领航" /></a></div>
+<div class="swiper-slide"><a href="http://www.xinhuanet.com/video/2021-02/25/c_1211041106.htm" target="_blank"><img src="../titlepic/112715/1127152155_1616392213365_title0h.jpg" alt="重磅微视频：决胜" /></a></div>
+<div class="swiper-slide"><a href="http://www.xinhuanet.com/video/2020-11/05/c_1210874659.htm" target="_blank"><img src="../titlepic/112671/1126715476_1605257305749_title0h.jpg" alt="强国之路" /></a></div>
+<div class="swiper-slide"><a href="http://www.xinhuanet.com/video/2020-07/25/c_1210719775.htm" target="_blank"><img src="../titlepic/112642/1126421131_1598521837259_title0h.jpg" alt="微视频：希望的田野" /></a></div>
+<div class="swiper-slide"><a href="http://www.xinhuanet.com/video/2020-06/12/c_1210657972.htm" target="_blank"><img src="../titlepic/112610/1126106896_1592273420069_title0h.jpg" alt="特殊的客人" /></a></div>
+</div>
+</div>
+</div>
+<!--专家解读 part6-->
+<div id="index_6"></div>
+<div class="part6" style="display:none;">
+<div class="part6-tit"><img src="/politics/xxjxs/images/20161227_xxxdd_part6Img01_v1.png" /></div>
+<div class="swiper-container part6-content">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112369/1123698909_1541989482426_title0h.png" width="177" height="185" border="0" alt="中央党史和文献研究院院务委员会委员" /> 
+<h3>  <span>陈理</span>  中央党史和文献研究院院务委员会委员 </h3>
+<p>中央党史和文献研究院院务委员会委员。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://www.xinhuanet.com/talking/character/2018110201.htm" target="_blank">陈理：精准扶贫的关键是增强针对性</a></li>
+<li><a href="http://www.xinhuanet.com/talking/character/2018110201.htm" target="_blank">陈理：坚持党的领导是脱贫攻坚一大亮点</a></li>
+<li><a href="http://www.xinhuanet.com/talking/character/2018110201.htm" target="_blank">陈理：三个方面推动构建一个没有贫困、共同发展的人类命运共同体</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/talking/character/2018110201.htm" target="_blank"><img src="../titlepic/112369/1123698954_1541989636661_title0h.jpg" width="345" height="190" border="0" alt="陈理：《习近平扶贫论述摘编》背后的深意" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/talking/character/2018110201.htm" target="_blank">陈理：《习近平扶贫论述摘编》背后的深意</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/talking/character/2018110201.htm" target="_blank"><img src="../titlepic/112369/1123699005_1541990055278_title0h.jpg" width="250" height="140" border="0" alt="陈理：五方面理解脱贫攻坚的重大意义" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/talking/character/2018110201.htm" target="_blank">陈理：五方面理解脱贫攻坚的重大意义</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112029/1120297990_1490237147053_title0h.png" width="177" height="185" border="0" alt="中央党校副教育长兼科研部主任" /> 
+<h3>  <span>韩庆祥</span>  中央党校副教育长兼科研部主任 </h3>
+<p>博士生导师、一级教授。曾任中央党校研究生院院长、中央党校马克思主义理论教研部主任等职务，现任中央党校副教育长兼科研部主任。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/18/c_129722375.htm" target="_blank">韩庆祥谈十九大报告总体感受：一个字“新”</a></li>
+<li><a href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/18/c_129722421.htm" target="_blank">韩庆祥：十九大报告的定位、定标、定法</a></li>
+<li><a href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/18/c_129722379.htm" target="_blank">韩庆祥：十九大报告总思路是从具体到抽象再具体</a></li>
+<li><a href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/18/c_129722510.htm" target="_blank">韩庆祥：十九大会场雷鸣般掌声表达共同心声</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/interview/19dbgjd/sjdbgjd01.htm" target="_blank"><img src="../titlepic/112189/1121894370_1509587026967_title0h.jpg" width="345" height="190" border="0" alt="韩庆祥：12个&ldquo;新&rdquo;解读十九大报告亮点" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/interview/19dbgjd/sjdbgjd01.htm" target="_blank">韩庆祥：12个“新”解读十九大报告亮点</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-05/17/c_128991323.htm" target="_blank"><img src="../titlepic/112029/1120298028_1484204853982_title0h.png" width="250" height="140" border="0" alt="习近平为中国特色哲学社会科学&ldquo;定性&rdquo;" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2016-05/17/c_128991323.htm" target="_blank">习近平为中国特色哲学社会科学“定性”</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112029/1120297590_1485258634422_title0h.png" width="177" height="185" border="0" alt="中央党校教务部主任" /> 
+<h3>  <span>谢春涛</span>  中央党校教务部主任 </h3>
+<p>曾任中央党校党史教研部主任、中央党校报刊社社长兼总编辑，现任中央党校教务部主任。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://news.xinhuanet.com/talking/2016-07/04/c_1119162414.htm" target="_blank">“七一讲话”体现自豪 自信 清醒 坚定</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-07/04/c_1119162436.htm" target="_blank">总书记为什么高度重视“文化自信”</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-07/04/c_1119162420.htm" target="_blank">全面从严治党是四个全面战略布局的重中之重</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-07/04/c_1119162423.htm" target="_blank">谢春涛：三个飞跃将党的历史贡献概括得更清楚</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/interview/20160704qyjd/index.htm" target="_blank"><img src="../titlepic/112029/1120297579_1484202158904_title0h.jpg" width="345" height="190" border="0" alt="谢春涛：中国共产党人的&ldquo;初心&rdquo;是什么" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/interview/20160704qyjd/index.htm" target="_blank">谢春涛：中国共产党人的“初心”是什么</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-07/05/c_129117592.htm" target="_blank"><img src="../titlepic/112029/1120297576_1484269975387_title0h.png" width="250" height="140" border="0" alt="学习秒答 | 总书记&ldquo;七一&rdquo;讲话有四大特点" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2016-07/05/c_129117592.htm" target="_blank">学习秒答 | 总书记“七一”讲话有四大特点</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112029/1120298959_1490237201621_title0h.png" width="177" height="185" border="0" alt="中央党校国际战略研究院副院长" /> 
+<h3>  <span>高祖贵</span>  中央党校国际战略研究院副院长 </h3>
+<p>国际政治学博士，教授，博士生导师，美国布鲁金斯学会客座学者，现任中共中央党校国际战略研究院副院长。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://news.xinhuanet.com/video/sjxw/2017-05/12/c_129603779.htm" target="_blank">高祖贵:"一带一路"把中国和世界连在一起</a></li>
+<li><a href="http://news.xinhuanet.com/video/sjxw/2017-01/20/c_129455705.htm" target="_blank">习近平新年首访释放出哪些新信息</a></li>
+<li><a href="http://news.xinhuanet.com/video/sjxw/2016-09/06/c_129271768.htm" target="_blank">习近平“主场外交”有何新亮点？</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-09/08/c_1119533572.htm" target="_blank">习近平“中国方案”体现“中国原创”</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/interview/20160908fh/index.htm" target="_blank"><img src="../titlepic/112029/1120298137_1484205583743_title0h.jpg" width="345" height="190" border="0" alt="高祖贵：习近平为世界经济开出一剂&ldquo;中国药方&rdquo;" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/interview/20160908fh/index.htm" target="_blank">高祖贵：习近平为世界经济开出一剂“中国药方”</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2017-05/12/c_129603779.htm" target="_blank"><img src="../titlepic/112097/1120972356_1494811128713_title0h.jpg" width="250" height="140" border="0" alt="学习秒答|习近平倡导的&ldquo;一带一路&rdquo;有多重要？" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2017-05/12/c_129603779.htm" target="_blank">学习秒答|习近平倡导的“一带一路”有多重要？</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112029/1120297580_1490237241918_title0h.png" width="177" height="185" border="0" alt="北京大学中国健康发展研究中心主任" /> 
+<h3>  <span>李玲</span>  北京大学中国健康发展研究中心主任 </h3>
+<p>北京大学国家发展研究院经济学教授、北京大学中国健康发展研究中心主任。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://news.xinhuanet.com/talking/2016-08/24/c_1119445836.htm" target="_blank">李玲：医疗卫生以基层为重点就是医卫资源全民共享</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-08/24/c_1119445751.htm" target="_blank">老百姓关心什么，总书记都知道</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-08/24/c_1119445809.htm" target="_blank">“健康中国”的概念不只是治病</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-08/24/c_1119445787.htm" target="_blank">李玲：以人民健康为目标成为新的发展模式</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/interview/20160824DJK/index.htm" target="_blank"><img src="../titlepic/112029/1120297607_1484202135342_title0h.png" width="345" height="190" border="0" alt="老百姓关心的健康问题，总书记这样说" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/interview/20160824DJK/index.htm" target="_blank">老百姓关心的健康问题，总书记这样说</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-08/22/c_129248195.htm" target="_blank"><img src="../titlepic/112029/1120297621_1484202239607_title0h.jpg" width="250" height="140" border="0" alt="学习秒答|如何理解习近平&ldquo;健康中国&rdquo;的内涵" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2016-08/22/c_129248195.htm" target="_blank">学习秒答|如何理解习近平“健康中国”的内涵 </a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112029/1120297547_1484301866000_title0h.png" width="177" height="185" border="0" alt="中国国际问题研究基金会战略研究中心执行主任" /> 
+<h3>  <span>王嵎生</span>  中国国际问题研究基金会战略研究中心执行主任 </h3>
+<p>中国前APEC高官和大使，中国国际问题研究基金会高级研究员和国务院发展研究中心世界发展研究所研究员。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://news.xinhuanet.com/talking/2016-10/19/c_1119745787.htm" target="_blank">金砖国家有共同的理念、共同的诉求</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-10/19/c_1119745750.htm" target="_blank">中国始终把同发展中国家合作放突出位置</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-10/19/c_1119745541.htm" target="_blank">《果阿宣言》是落实“杭州共识”的行动</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/interview/20161017cfjd/index.htm" target="_blank"><img src="../titlepic/112029/1120297678_1484202605885_title0h.png" width="345" height="190" border="0" alt="王嵎生：金砖国家领导人果阿会晤意义重大" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/interview/20161017cfjd/index.htm" target="_blank">王嵎生：金砖国家领导人果阿会晤意义重大</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-10/18/c_129327659.htm" target="_blank"><img src="../titlepic/112029/1120297710_1484202767642_title0h.png" width="250" height="140" border="0" alt="学习秒答|金砖国家有共同理念和诉求" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2016-10/18/c_129327659.htm" target="_blank">学习秒答|金砖国家有共同理念和诉求</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112029/1120299028_1485258417513_title0h.png" width="177" height="185" border="0" alt="著名军事专家" /> 
+<h3>  <span>尹卓</span>  著名军事专家 </h3>
+<p>著名军事专家，海军信息化专家委员会主任，中国人民解放军海军装备论证研究中心综合论证研究所高级研究员，少将军衔。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://news.xinhuanet.com/talking/2016-11/30/c_129383553.htm" target="_blank">尹卓妙答军区战区一字之差背后的深意</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-11/30/c_129383538.htm" target="_blank">解放军“最牛”军改一周年，到底“牛”在哪儿？</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://news.cn/interview/character/ft5.htm" target="_blank"><img src="../titlepic/112029/1120299087_1484792695986_title0h.jpg" width="345" height="190" border="0" alt="军改，实现强军梦的正确打开方式" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.cn/interview/character/ft5.htm" target="_blank">军改，实现强军梦的正确打开方式</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-11/28/c_129381251.htm" target="_blank"><img src="../titlepic/112029/1120299089_1484209991464_title0h.png" width="250" height="140" border="0" alt="学习秒答|军改一年来，取得了哪些重大成果？" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2016-11/28/c_129381251.htm" target="_blank">学习秒答|军改一年来，取得了哪些重大成果？ </a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112030/1120307533_1485088862290_title0h.png" width="177" height="185" border="0" alt="国防大学马克思主义教研部教授" /> 
+<h3>  <span>颜晓峰</span>  国防大学马克思主义教研部教授 </h3>
+<p>国防大学马克思主义教研部教授，博士生导师，哲学博士。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/21/c_129723695.htm" target="_blank">颜晓峰解读十九大报告：新时代党的强军思想</a></li>
+<li><a href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/21/c_129723741.htm" target="_blank">颜晓峰：建设新型人民军队的同时要恪守“军魂”</a></li>
+<li><a href="http://news.xinhuanet.com/politics/19cpcnc/2017-10/21/c_129723683.htm" target="_blank">颜晓峰：新时代强军根本标准就是打赢信息化战争</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-07/30/c_1119309281.htm" target="_blank">习主席的强军目标“强”在哪？</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/talking/19dbgjd/sjdbgjd04.htm" target="_blank"><img src="../titlepic/112189/1121894567_1509588063107_title0h.jpg" width="345" height="190" border="0" alt="颜晓峰：建设强大军队,为实现中国梦提供战略支撑" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/talking/19dbgjd/sjdbgjd04.htm" target="_blank">颜晓峰：建设强大军队,为实现中国梦提供战略支撑</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-08/01/c_129195829.htm" target="_blank"><img src="../titlepic/112030/1120307560_1484299316466_title0h.png" width="250" height="140" border="0" alt="学习秒答|习近平提出了什么强军方略？" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2016-08/01/c_129195829.htm" target="_blank">学习秒答|习近平提出了什么强军方略？</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="part6-con-top">
+<img src="../titlepic/112029/1120297358_1485258624516_title0h.png" width="177" height="185" border="0" alt="中央党校原副校长" /> 
+<h3>  <span>李君如</span>  中央党校原副校长 </h3>
+<p>研究员、博士生导师。中央党校原副校长。</p>
+</div>
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<ul>
+<li><a href="http://www.xinhuanet.com/interview/20161022jhjd/index.htm" target="_blank">李君如解读习近平在纪念红军长征胜利80周年大会上讲话</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-10/22/c_1119768008.htm" target="_blank">弘扬长征精神就要"不忘初心，继续前进"</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-10/22/c_1119768005.htm" target="_blank">李君如：四个"伟大远征"指导走好今天的长征路</a></li>
+<li><a href="http://news.xinhuanet.com/talking/2016-10/22/c_1119767983.htm" target="_blank">总书记强调民族精神和以人民为中心</a></li>
+</ul>
+</div>
+<div class="part6-con-bot-cer">
+<div class="picTitle">
+<p class="img"><a href="http://www.xinhuanet.com/interview/20160701qyjd/index.htm" target="_blank"><img src="../titlepic/112029/1120297363_1484791863045_title0h.jpg" width="345" height="190" border="0" alt="不忘初心 继续前进&mdash;李君如解读总书记七一讲话" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://www.xinhuanet.com/interview/20160701qyjd/index.htm" target="_blank">不忘初心 继续前进—李君如解读总书记七一讲话</a></p>
+</div>
+</div>
+<div class="part6-con-bot-right">
+<div class="picTitle">
+<p class="img"><a href="http://news.xinhuanet.com/video/sjxw/2016-10/21/c_129332975.htm" target="_blank"><img src="../titlepic/112029/1120297367_1484199448885_title0h.png" width="250" height="140" border="0" alt="学习秒答|为什么说长征精神是永远的" /></a></p>
+<p class="bg"></p>
+<p class="name"><a href="http://news.xinhuanet.com/video/sjxw/2016-10/21/c_129332975.htm" target="_blank">学习秒答|为什么说长征精神是永远的</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<!---->
+<div class="part6-con-bot">
+<div class="part6-con-bot-left">
+<h2> <a href="#" target="_blank">理论文章</a></h2>
+<!---->
+</div>
+<div class="part6-con-bot-cer">
+<!---->
+</div>
+<div class="part6-con-bot-right">
+<!---->
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="part6-nav-box">
+<a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+<div class="swiper-container part6-nav">
+<div class="swiper-wrapper">
+<div class="swiper-slide active-nav"><span class="angle"></span><img src="../titlepic/112369/1123699258_1541990952321_title0h.jpg" alt="陈理" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112029/1120298064_1484213785293_title0h.jpg" alt="韩庆祥" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112029/1120297372_1484213770977_title0h.jpg" alt="谢春涛" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112029/1120299114_1484217109398_title0h.jpg" alt="高祖贵" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112029/1120297847_1484213777891_title0h.jpg" alt="李玲" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112029/1120297370_1484213765069_title0h.jpg" alt="王嵎生" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112029/1120299143_1484217135045_title0h.jpg" alt="尹卓" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112030/1120307471_1484299467966_title0h.jpg" alt="颜晓峰" /></div>
+<div class="swiper-slide"><span class="angle"></span><img src="../titlepic/112029/1120297373_1484213743282_title0h.jpg" alt="李君如" /></div>
+</div>
+</div>
+</div>
+</div>
+<!--学习书架 part7-->
+<div class="part7" style="display:none">
+<div class="part7-tit"> <img src="/politics/xxjxs/images/20161227_xxxdd_part7Img02_v1.png" /></div>
+<div class="tstj" style="margin:0 auto">
+<div class="hd">
+<a class="next"></a>
+<ul>
+</ul>
+<a class="prev"></a>
+<!--<span class="pageState"></span>-->
+</div>
+<div class="bd">
+<div class="ulWrap">
+<ul>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.78.41346977CsJSOR&amp;id=622882625422&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440993_1621332952363_title0h.png" border="0" alt="习近平谈治国理政 第三卷" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.132.41346977CsJSOR&amp;id=622646174291&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440992_1621332957101_title0h.png" border="0" alt="习近平谈治国理政 第二卷" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.114.41346977CsJSOR&amp;id=622066076040&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440991_1621332961719_title0h.png" border="0" alt="习近平谈治国理政 第一卷" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.81.41346977CsJSOR&amp;id=641813366773&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440990_1621332967761_title0h.png" border="0" alt="习近平关于注重家庭家教家风建设论述摘编" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.87.41346977CsJSOR&amp;id=623278552609&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440988_1621332974599_title0h.png" border="0" alt="习近平新时代中国特色社会主义思想学习问答" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.90.41346977CsJSOR&amp;id=621992124111&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440987_1621332980968_title0h.png" border="0" alt="习近平讲故事" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.93.41346977CsJSOR&amp;id=624447437892&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440985_1621332987173_title0h.png" border="0" alt="习近平用典" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.105.41346977CsJSOR&amp;id=631072865752&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440984_1621332994440_title0h.png" border="0" alt="习近平总书记教育重要论述讲义" /></a></div>
+<div class="title"></div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.111.41346977CsJSOR&amp;id=631069193819&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440983_1621332998708_title0h.png" border="0" alt="习近平与大学生朋友们" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.117.41346977CsJSOR&amp;id=623909526454&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440982_1621333004483_title0h.png" border="0" alt="习近平新时代中国特色社会主义思想学习纲要" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.120.41346977CsJSOR&amp;id=623782478940&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440980_1621333009213_title0h.png" border="0" alt="平语近人 习近平总书记用典" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.123.41346977CsJSOR&amp;id=628482847596&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440978_1621333013761_title0h.png" border="0" alt="习近平扶贫故事" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.129.41346977CsJSOR&amp;id=625816741745&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440976_1621333018147_title0h.png" border="0" alt="习近平新时代中国特色社会主义思想基本问题" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.138.41346977CsJSOR&amp;id=623909514432&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440975_1621333022231_title0h.png" border="0" alt="习近平新时代中国特色社会主义思想三十讲" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.141.41346977CsJSOR&amp;id=624170981220&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440974_1621333027667_title0h.png" border="0" alt="习近平关于&ldquo;不忘初心、牢记使命&rdquo;论述摘编" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.153.41346977CsJSOR&amp;id=638730270960&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440973_1621333041337_title0h.png" border="0" alt="习近平关于网络强国论述摘编" /></a></div>
+<div class="title"></div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.168.41346977CsJSOR&amp;id=624258679134&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440969_1621333046443_title0h.png" border="0" alt="习近平总书记系列重要讲话读本" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.183.41346977CsJSOR&amp;id=630049463848&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440968_1621333052261_title0h.png" border="0" alt="习近平关于统筹疫情防控和经济社会发展重要论述选编" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.228.41346977CsJSOR&amp;id=634298587230&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440967_1621333057477_title0h.png" border="0" alt="习近平扶贫论述摘编" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.234.41346977CsJSOR&amp;id=633983758122&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440966_1621333063420_title0h.png" border="0" alt="习近平谈&ldquo;一带一路 &rdquo;" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.237.41346977CsJSOR&amp;id=633983198470&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440965_1621333068181_title0h.png" border="0" alt="习近平关于&ldquo;三农&rdquo;工作论述摘编" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.246.41346977CsJSOR&amp;id=626487352111&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440964_1621333074109_title0h.png" border="0" alt="习近平关于防范风险挑战、应对突发事件论述摘编" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.84.53906977lQslas&amp;id=626105710032&amp;rn=50f18d0cb1890851c05a77897bfd3587&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440962_1621333079031_title0h.png" border="0" alt="习近平新时代中国特色社会主义思想基本问题" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.198.41346977CsJSOR&amp;id=624192883489&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440961_1621333083012_title0h.png" border="0" alt="习近平在厦门" /></a></div>
+<div class="title"></div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.216.41346977CsJSOR&amp;id=623325260350&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440954_1621333088935_title0h.png" border="0" alt="习近平在宁德" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.150.41346977CsJSOR&amp;id=630310825793&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440953_1621333094793_title0h.png" border="0" alt="习近平在福州" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.29.37e16977k90sBA&amp;id=623909514466&amp;rn=7432a3c3d4229b3878950fa04ea39a06&amp;abbucket=15" target="_blank"><img src="../titlepic/112744/1127441124_1621333122712_title0h.png" border="0" alt="习近平在正定" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.135.41346977CsJSOR&amp;id=623692521769&amp;rn=2e1a38715e4ddac8a5c17e126091ce00&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440952_1621333115581_title0h.png" border="0" alt="习近平的七年知青岁月" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.81.53906977lQslas&amp;id=634493644742&amp;rn=50f18d0cb1890851c05a77897bfd3587&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440950_1621333130917_title0h.png" border="0" alt="习近平调研指导过的贫困村脱贫纪实" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.93.53906977lQslas&amp;id=625173254476&amp;rn=50f18d0cb1890851c05a77897bfd3587&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440949_1621333135933_title0h.png" border="0" alt="习近平用典 第四辑 外国经典篇" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.87.53906977lQslas&amp;id=643431667874&amp;rn=50f18d0cb1890851c05a77897bfd3587&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440948_1621333139859_title0h.png" border="0" alt="平易近人 习近平的语言力量 外交卷" /></a></div>
+<div class="title"></div>
+</li>
+<li>
+<div class="pic"><a href="https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-22950730525.223.580969775YKv9m&amp;id=626391727655&amp;rn=63a92345e914f9baf5dd38e72225086c&amp;abbucket=12" target="_blank"><img src="../titlepic/112744/1127440947_1621333146125_title0h.png" border="0" alt="治国理政新实践 习近平总书记重要活动通讯选" /></a></div>
+<div class="title"></div>
+</li>
+</ul>
+</div>
+<!-- ulWrap End -->
+</div>
+<!-- bd End -->
+</div>
+</div>
+<!--专题 part8-->
+<div class="part8" style="display:none">
+<div class="part8-tit"> <a href="/politics/xxjxs/feature.htm" target="_blank"><img src="/politics/xxjxs/images/20210522/js/ztlm.png" /></a></div>
+<div class="ztlm">
+<div class="ztlml">
+<a href="http://www.news.cn/politics/leaders/xijinping/kcsc202206/index.htm" target="_blank"><img src="../titlepic/112874/1128740454_1655194345609_title0h.jpg" border="0" alt="习近平在四川考察" /></a>
+</div>
+<div class="ztlmr">
+<ul>
+<li>
+<div class="picNews2">
+<div class="picImg"><a href="http://www.news.cn/politics/leaders/xijinping/kchainan202204/index.htm" target="_blank"><img src="../titlepic/112857/1128577848_1650441160621_title0h.png" border="0" alt="习近平在海南考察" /></a></div>
+<div class="picBg"></div>
+<div class="picTit"><a href="http://www.news.cn/politics/leaders/xijinping/kchainan202204/index.htm" target="_blank">习近平在海南考察</a></div>
+</div>
+</li>
+<li>
+<div class="picNews2">
+<div class="picImg"><a href="http://www.news.cn/politics/leaders/xijinping/kcsx202201/index.htm" target="_blank"><img src="../titlepic/112831/1128314024_1643445299036_title0h.png" border="0" alt="习近平春节前夕赴山西看望慰问基层干部群众" /></a></div>
+<div class="picBg"></div>
+<div class="picTit"><a href="http://www.news.cn/politics/leaders/xijinping/kcsx202201/index.htm" target="_blank">习近平春节前夕赴山西看望慰问基层干部群众</a></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+<div class="ztlm">
+<div class="ztlml">
+<a href="http://www.xinhuanet.com/world/cnleaders/xijinping/xjpcxzgzdofh2021/index.htm" target="_blank"><img src="../titlepic/112463/1124638502_1622096820844_title0h.png" border="0" /></a>
+</div>
+<div class="ztlmr">
+<ul>
+<li>
+<div class="picNews2">
+<div class="picImg"><a href="http://www.xinhuanet.com/world/cnleaders/xijinping/xjpcxdws2021/index.htm" target="_blank"><img src="../titlepic/112749/1127498273_1622096625234_title0h.png" border="0" alt="习近平出席世界经济论坛&ldquo;达沃斯议程&rdquo;对话会" /></a></div>
+<div class="picBg"></div>
+<div class="picTit"><a href="http://www.xinhuanet.com/world/cnleaders/xijinping/xjpcxdws2021/index.htm" target="_blank">习近平出席世界经济论坛“达沃斯议程”对话会</a></div>
+</div>
+</li>
+<li>
+<div class="picNews2">
+<div class="picImg"><a href="http://www.xinhuanet.com/world/cnleaders/xijinping/xjpdcwjhd2020/index.htm" target="_blank"><img src="../titlepic/112749/1127498281_1622096700045_title0h.jpg" border="0" alt="习近平主席出席重大多边外交活动" /></a></div>
+<div class="picBg"></div>
+<div class="picTit"><a href="http://www.xinhuanet.com/world/cnleaders/xijinping/xjpdcwjhd2020/index.htm" target="_blank">习近平主席出席重大多边外交活动</a></div>
+</div>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+<ul class="products">
+<li>
+<div>        <img src="../titlepic/112468/1124683737_1561693008843_title0h.jpg" border="0" alt="学习进行时微信公号" />      </div>
+<span>学习进行时微信公号</span>    
+</li>
+<li>
+<div>        <img src="../titlepic/112468/1124683703_1561692450663_title0h.jpg" border="0" alt="新华社客户端" />      </div>
+<span>新华社客户端</span>    
+</li>
+<li>
+<div>        <img src="../titlepic/112468/1124683722_1561692103021_title0h.png" border="0" alt="新华社微信公号" />      </div>
+<span>新华社微信公号</span>    
+</li>
+<li>
+<div>        <img src="../titlepic/112468/1124683669_1561698434765_title0h.jpg" border="0" alt="新华网客户端" />      </div>
+<span>新华网客户端</span>    
+</li>
+<li>
+<div>        <img src="../titlepic/112468/1124683735_1561692220264_title0h.jpg" border="0" alt="手机新华网" />      </div>
+<span>手机新华网</span>    
+</li>
+<li>
+<div>        <img src="../titlepic/112468/1124683725_1561692143232_title0h.jpg" border="0" alt="新华网微信公号" />      </div>
+<span>新华网微信公号</span>    
+</li>
+<li>
+<div>        <img src="../titlepic/112468/1124683731_1561692177990_title0h.jpg" border="0" alt="新华网法人微博" />      </div>
+<span>新华网法人微博</span>    
+</li>
+</ul>
+</div>
+<!--fixed导航 nav-->
+<!--fixed导航 nav-->
+<div class="nav">
+<div class="nav-box">
+<div class="nav-li0" style="background:none;"><img src="/politics/xxjxs/images/20170213logo.png" style="width:100%" /></div>
+<div class="nav-li" data-title="2">讲习所</div>
+<div class="nav-li" data-title="001">学习述评</div>
+<div class="nav-li" data-title="003">第一观察</div>
+<div class="nav-li" data-title="003">第一视点</div>
+<div class="nav-li" data-title="004">第一报道</div>
+<div class="nav-li" data-title="002">学习快评</div>
+<div class="nav-li" data-title="006">习近平时间</div>
+<div class="nav-li" data-title="005">镜观·领航</div>
+<div class="nav-li" data-title="006">习近平讲述的故事</div>
+<div class="nav-li" data-title="008">学习故事绘</div>
+<!--    <a href="#index_009">
+<div class="nav-li" data-title="009">近平Style</div>
+</a>-->
+<div class="nav-li2" style="display:none">
+<form id="f1" method="GET" action="http://searchxh.news.cn/was5/web/search" target="_blank">
+<input name="channelid" value="253758" type="hidden" />
+<input name="searchword" class="ss" value="习近平" />
+<input type="submit" class="ss_submit" name="btn" value="" />
+</form>
+<script>
+String.prototype.trim = functfunction trimInput() {
+    var arg = document.getElementById("inputwd").value;
+    if (arg.trim() == "") {
+        //alert("请输入关键字");
+        document.getElementById("inputwd").focus();
+        return false;
+    } else {
+        return true;
+    }
+}
+      
+</script>
+</div>
+</div>
+</div>
+<!--底部 footer-->
+<div class="footer">
+<script type="text/javascript" src="/static/js/com_copyright.js"></script>
+</div>
+<script type="text/javascript" src="/global/lib/jq/jquery1.12.4/jquery1.12.4.min.js"></script>
+<script type="text/javascript" src="/global/lib/swiper/swiper2.7.6/idangerous.swiper.min.js"></script>
+<script type="text/javascript" src="/global/lib/swiper/swiper2.7.6/idangerous.swiper.scrollbar.js"></script>
+<script type="text/javascript" src="/global/lib/swiper/swiper2.7.6/idangerous.swiper.3dflow.js"></script>
+<script type="text/javascript" src="/politics/xxjxs/images/20210522/js/20190618index.js"></script>
+<script src="/global/js/jquery.SuperSlide.2.1.1.js"></script>
+<script>
+//外交习语
+var wjxy_con = new Swiper('.wjxy_con .swiper-container',{ 
+        pagination: '.wjxy_con .pagination', 
+        loop:true, 
+        grabCursor: true, 
+        paginationClickable: true,  
+        //autoplay:5000 
+    }) 
+//自习课	
+var zxk_swiper = new Swiper('.zxk_swiper .swiper-container',{ 
+        pagination: '.zxk_swiper .pagination', 
+        loop:true, 
+        grabCursor: true, 
+        paginationClickable: true,  
+        //autoplay:5000 
+    }) 
+	$('.arrow-left').on('click', function(e){ 
+        e.preventDefault() 
+        zxk_swiper.swipePrev() 
+    }) 
+    $('.arrow-right').on('click', function(e){ 
+        e.preventDefault() 
+        zxk_swiper.swipeNext() 
+    }) 
+//金色相框
+var jsxk_swiper = new Swiper('.jsxk_swiper .swiper-container',{ 
+        pagination: '.jsxk_swiper .pagination', 
+        loop:true, 
+        grabCursor: true, 
+        paginationClickable: true,
+        //autoplay:5000 
+    }) 	
+	
+	var $tab_li = $('.tab1 ul li'); 
+$tab_li.hover(function(){ 
+    $(this).addClass('selected').siblings().removeClass('selected'); 
+    var index = $tab_li.index(this); 
+    $('div.tab_box > div').eq(index).show().siblings().hide(); 
+}); 
+//tab切换
+	var $tabimgli = $('.xyjr ul li'); 
+$tabimgli.hover(function(){ 
+    $(this).addClass('selected').siblings().removeClass('selected'); 
+    $('.xyjr .piclist > .picTitle').eq($tabimgli.index(this)).show().siblings().hide(); 
+});
+	
+	jQuery(".tstj").slide({titCell:".hd ul",mainCell:".bd .ulWrap",autoPage:true,effect:"leftLoop",autoPlay:false});
+</script>
+<div style="display:none"><div id="fwl">010020021600000000000000011200000000000000</div><script type="text/javascript" src="//webd.home.news.cn/webdig.js?z=1"></script><script type="text/javascript">wd_paramtracker("_wdxid=010020021600000000000000011200000000000000")</script><noscript><img src="//webd.home.news.cn/1.gif?z=1&_wdxid=010020021600000000000000011200000000000000" border="0" /></noscript></div>   </body>
+</html>
